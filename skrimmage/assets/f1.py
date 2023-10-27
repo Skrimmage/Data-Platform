@@ -3,7 +3,7 @@ from ..resources import ErgastDatabaseResource
 from .. import constants
 
 @asset(
-    group_name="Extract",s
+    group_name="Extract",
     key_prefix="f1"
 )
 def f1_csv_files(ergast_f1_api: ErgastDatabaseResource):

@@ -16,6 +16,16 @@ Asset Diagram
 
 ![Asset Diagram from Dagster](./Global_Asset_Lineage.svg)
 
+
+## How to run on my own server:
+
+0. Check to make sure the /opt folder is ready
+1. `$ nohup dagster-webserver -h 0.0.0.0 -p 4444 -l /dagster &`
+2. `$ nohup dagster-daemon run &`
+
+Will figure out more steps as I continue making this work.
+
+**Dagster generated README follows:**
 ## Getting started
 
 First, install your Dagster code location as a Python package. By using the --editable flag, pip will install your Python package in ["editable mode"](https://pip.pypa.io/en/latest/topics/local-project-installs/#editable-installs) so that as you develop, local code changes will automatically apply.
