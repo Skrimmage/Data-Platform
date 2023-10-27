@@ -1,14 +1,16 @@
 from dagster import Definitions, load_assets_from_modules
 
-from . import assets
+from .assets import f1, nhl
 from . import metrics
-from .resources import database_resource
+from .resources import database_resource, ErgastDatabaseResource, NhlApiResource
 
-all_assets = load_assets_from_modules([assets, metrics])
+all_assets = load_assets_from_modules([f1, nhl, metrics])
 
 defs = Definitions(
     assets=all_assets,
     resources={
     	"database": database_resource,
+        "nhl_api": NhlApiResource,
+        "ergast_f1_api": ErgastDatabaseResource
     },
 )

@@ -1,1 +1,9 @@
 tmp*/
+.telemetry/
+.vscode/
+history/
+logs/
+nohup.out
+storage/
+schedules/
+
