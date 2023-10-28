@@ -6,4 +6,5 @@ logs/
 nohup.out
 storage/
 schedules/
+**/__pycache__
 
