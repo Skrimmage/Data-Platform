@@ -7,4 +7,4 @@ nohup.out
 storage/
 schedules/
 **/__pycache__
-
+venv/
