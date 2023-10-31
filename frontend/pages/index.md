@@ -2,18 +2,8 @@
 title: Welcome to Skrimmage
 ---
 
-_Build polished data products with SQL and Markdown_
+Skrimmage is the all-comprehensive site for Sports Analytics and Games Research. Dive deep into a treasure trove of aggregate stats, access an extensive library of free sports data, and discover cutting-edge machine learning analysis tailored for the modern sports enthusiast. Whether you're a casual fan, a data-driven coach, or a budding analyst, Skrimmage is your ultimate destination for insights that transcend the game.
 
-This demo [connects](/settings) to a local DuckDB file `needful_things.duckdb`.
+---
 
-## Write in Markdown
-
-Evidence renders markdown files into web pages. This page is:
-`[project]/pages/index.md`.
-
-## Run SQL using Code Fences
-
-```sql drivers
-select forename,surname,dob,nationality,url
-from 'sources/drivers.csv'
-```
+Follow me [on Mastodon](https://mastodon.skrimmage.com/@danny), or [Blue Sky](https://bsky.app/profile/danny.page). Also you can [email](mailto:danny@skrimmage.com)!
