@@ -29,7 +29,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source-directory: 'build'
+          source-directory: 'frontend/build'
           destination-github-username: 'skrimmage'
           destination-repository-name: 'skrimmage.github.io'
           user-email: dannypage@users.noreply.github.com
