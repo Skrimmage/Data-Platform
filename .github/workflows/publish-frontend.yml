@@ -1,11 +1,12 @@
 name: CI
 
-"on":
+on:
   push:
     branches:
-      - master
+      - main
     paths:
-      - 'posts/**'
+      - 'frontend/**'
+  workflow_dispatch:
 
 jobs:
   build:
