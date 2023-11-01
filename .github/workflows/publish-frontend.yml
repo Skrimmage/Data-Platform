@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: creates frontend build
-        run:  cd frontend && sh ./frontend/build.sh # some command from your repository that creates
+        run:  cd frontend && sh ./build.sh # some command from your repository that creates
       - name: Pushes to another repository
         uses: cpina/github-action-push-to-another-repository@main
         env:
