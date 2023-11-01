@@ -1,5 +1,7 @@
 # shell
 
+export EVIDENCE_DATABASE=csv
+
 # run the build command to build the static pages
 npm run build
 
