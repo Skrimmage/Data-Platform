@@ -93,17 +93,6 @@ ORDER  BY points DESC, weighted_points DESC
 
 ```
 
-## List of drivers
-
-<DataTable data="{drivers}" search="true">
-    <Column id="name" title="Name" />
-    <Column id="dob" title="Date Of Birth" />
-    <Column id="nationality" title="Nationality" />
-    <Column id="url" title="Wikipedia" contentType="link" openInNewTab="true" />
-</DataTable>
-
----
-
 ## Most Competitive Seasons
 
 Points is a calculation of the number of drivers within 80%, 90%, and 95% of the leader at each race. A driver being within 5% points of the leader counts as 3, 90%->2 points, 80%->1 point. "Weighted Points" gives more points for it happening later in the season, so a final race clash is weighted more than early races. The race 25% into the season gives 0.25 points per driver, while the last race gives 1 point per driver. This is not a very scientific algorithm, but hopefully it highlights the most exciting seasons in F1 for those who want to go and watch historical seasons on F1TV.
