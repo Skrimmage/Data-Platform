@@ -11,6 +11,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./frontend
     
     steps:
       - uses: actions/checkout@v4
@@ -20,7 +23,7 @@ jobs:
       - name: Install Dependencies
         run:  npm install
       - name: creates frontend build
-        run:  cd frontend && sh ./build.sh # some command from your repository that creates
+        run:  sh ./build.sh 
       - name: Pushes to another repository
         uses: cpina/github-action-push-to-another-repository@main
         env:
