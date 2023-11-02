@@ -1,5 +1,14 @@
 ---
-title: F1 Data
+title: Formula One
+---
+
+
+## TODO:
+- Add winners instead of Wikipedia link on the index page
+- Move that into the detail page
+- Add current standings on this page
+
+
 ---
 
 ```sql drivers
@@ -110,3 +119,4 @@ Points is a calculation of the number of drivers within 80%, 90%, and 95% of the
 ---
 
 Data via [Ergast Motor Racing Development API](https://ergast.com/mrd/) for now. It is being deprecated after the 2024 season, and Skrimmage will look into getting the data directly from the FIA in the future. 
+

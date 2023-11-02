@@ -17,3 +17,5 @@ order by date;
     <Column id="date" title="Date" />
     <Column id="url" title="Wikipedia" contentType="link" openInNewTab="true" />
 </DataTable>
+
+[All historical races](./historical_races)
