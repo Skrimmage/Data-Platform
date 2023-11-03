@@ -1,5 +1,6 @@
 select 
     CONCAT(forename, ' ', surname) as name,
+    driverId,
     dob,
     nationality,
     url,

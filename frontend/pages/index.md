@@ -2,8 +2,24 @@
 title: Welcome to Skrimmage
 ---
 
-Skrimmage is the all-comprehensive site for Sports Analytics and Games Research. Dive deep into a treasure trove of aggregate stats, access an extensive library of free sports data, and discover cutting-edge machine learning analysis tailored for the modern sports enthusiast. Whether you're a casual fan, a data-driven coach, or a budding analyst, Skrimmage is your ultimate destination for insights that transcend the game.
+![wordmark](/wordmark.png)
+
+*Your home for Open Source Sports Statistics!*
 
 ---
 
-Follow me [on Mastodon](https://mastodon.skrimmage.com/@danny), or [Blue Sky](https://bsky.app/profile/danny.page). Also you can [email](mailto:danny@skrimmage.com)!
+## Recent Updates
+
+- 2023/11/03
+  - F1
+    - Basic driver info (Wins, Podiums, Points)
+    - Races
+    - Circuits
+  - NHL
+    - Teams listed
+  - Site info
+    - [About Page](/about) created with stack info
+
+---
+
+Follow me, Danny Page, [on Mastodon](https://mastodon.skrimmage.com/@danny), or [Blue Sky](https://bsky.app/profile/danny.page). Also you can [email](mailto:danny@skrimmage.com)!
