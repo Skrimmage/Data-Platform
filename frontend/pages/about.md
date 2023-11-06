@@ -7,8 +7,11 @@ Skrimmage is the all-comprehensive site for Sports Analytics and Games Research.
 ## Stack
 
 **Sources:** Various league APIs. Noted at the base level of each sport.
+
 **Backend:** [Dagster](https://dagster.io/) to pull and transform data. Hosted on Raspberry Pi 400.
+
 **Frontend:** [Evidence.dev](https://evidence.dev/) to build static pages. 
+
 **Code:** [Skrimmage Data Platform](https://github.com/Skrimmage/Data-Platform) - Github actions look for any changes to the front end and push them to [Github Pages](https://github.com/Skrimmage/skrimmage.github.io) and hosted by [Cloudflare](https://www.cloudflare.com/)
 
 ## Ideals
