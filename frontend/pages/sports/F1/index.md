@@ -2,8 +2,12 @@
 title: Formula One
 ---
 
+## Stats
+- [Drivers](drivers/)
+- [Races](races/)
+- [Circuits](circuits/)
 
-## TODO:
+### TODO:
 - Add winners instead of Wikipedia link on the index page
 - Move that into the detail page
 - Add current standings on this page

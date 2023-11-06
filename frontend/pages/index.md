@@ -16,18 +16,22 @@ twitter:
 
 ---
 
-## Recent Updates
+## Sports
 
-- 2023/11/03
-  - [F1](/F1)
-    - Basic [driver](/F1/drivers) info (Wins, Podiums, Points)
-    - [Races](/F1/races)
-    - [Circuits](/F1/circuits)
-  - [NHL](/NHL)
-    - [Teams](/NHL/teams) to be listed
-  - Site info
-    - [About Page](/about) created with stack info
+- [Formula One](/sports/F1)
+- [NHL](/sports/NHL)
+- More coming soon!
 
----
+## Resources
 
-Follow me, Danny Page, [on Mastodon](https://mastodon.skrimmage.com/@danny), or [Blue Sky](https://bsky.app/profile/danny.page). Also you can [email](mailto:danny@skrimmage.com)!
+- [Sports Analytics Articles](/resources/articles)
+- [Data](/resources/data)
+- [Programmer Libraries](/resources/libraries)
+
+## Community
+
+- [Contribute on Github](https://github.com/Skrimmage/Data-Platform)
+- [Blue Sky](https://bsky.app/profile/danny.page)
+- [Email Questions/Comments](mailto:danny@skrimmage.com)
+- [Mastodon Server](https://mastodon.skrimmage.com)
+  - Make sure that you mention this page when you sign up to join!

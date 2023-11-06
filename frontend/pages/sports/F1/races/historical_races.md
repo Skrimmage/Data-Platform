@@ -2,7 +2,7 @@
 
 ```sql all_races
 select *,
-'/F1/races/' || year || '_' || REPLACE(name, ' ', '_') as race_link
+'/sports/F1/races/' || year || '_' || REPLACE(name, ' ', '_') as race_link
 from 'sources/races.csv'
 order by date;
 ```

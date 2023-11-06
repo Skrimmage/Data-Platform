@@ -5,10 +5,11 @@ export EVIDENCE_DATABASE=csv
 # run the build command to build the static pages
 npm run build
 
-echo "replacing DNS"
-
-cp CNAME ./build/CNAME
-cp _redirects ./build/_redirects
+#echo "replacing DNS"
+#cp CNAME ./build/CNAME
+#cp _redirects ./build/_redirects
+# Note: I removed this section by adding those files to the static folder. 
+# If those ever get added to anything other than the root level directory, important to add this back.
 
 echo "replacing icons"
 cp ./replace/icon.svg ./build/icon.svg 
