@@ -35,6 +35,23 @@
 	.pretty-scrollbar:hover::-webkit-scrollbar-thumb {
 		background-color: theme('colors.gray.200');
 	}
+
+	.card {
+		border: 1px solid; 
+		margin: 10px; 
+		padding: 10px; 
+		box-shadow: 5px 10px;
+
+		a{
+			@apply text-blue-600 underline decoration-transparent hover:decoration-blue-600  transition-all duration-200 !important;
+		}
+
+		h2{
+			@apply mt-3 mb-1 text-xl font-semibold text-gray-800;
+		}
+	}
+
+	
 }
 
 @layer components {
@@ -161,7 +178,8 @@
 	}
 
 	hr.markdown {
-		@apply h-px my-8 max-w-xl mx-auto bg-gray-200 border-0;
+		@apply h-px my-8 max-w-xl mx-auto border-0;
+		background-color: oklch(70% 0.3305 145.77);
 	}
 
 	code.markdown {

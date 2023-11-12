@@ -1,6 +1,7 @@
 # shell
 
-export EVIDENCE_DATABASE=csv
+export EVIDENCE_DATABASE=duckdb
+export EVIDENCE_DUCKDB_FILENAME=skrimmage.duckdb
 
 # run the build command to build the static pages
 npm run build
