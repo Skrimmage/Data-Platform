@@ -1,19 +1,20 @@
 ---
 title: Formula One
+hide_title: True
 ---
 
-## Stats
-- [Drivers](drivers/)
-- [Races](races/)
-- [Circuits](circuits/)
+<h1 class="text-center title">Formula One</h1>
+
+<Links>
+    <Link dest="/sports/F1/drivers/" text="Drivers" />
+    <Link dest="/sports/F1/races/" text="Races" />
+    <Link dest="/sports/F1/circuits/" text="Circuits" />
+</Links>
 
 ### TODO:
 - Add winners instead of Wikipedia link on the index page
 - Move that into the detail page
 - Add current standings on this page
-
-
----
 
 ```sql drivers
 select CONCAT(forename, ' ', surname) as name,dob,nationality,url

@@ -1,3 +1,9 @@
+<Links>
+    <Link dest="/sports/F1/drivers/" text="Drivers" />
+    <Link dest="/sports/F1/races/" text="Races" />
+    <Link dest="/sports/F1/circuits/" text="Circuits" />
+</Links>
+
 # <Value data={races.filter(r => r.year_race_name === $page.params.year_race_name)} column=name_year/>
 
 ```sql races
