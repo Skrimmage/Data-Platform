@@ -19,10 +19,10 @@
 
 </script>
 
-<section class='text-center'>
+<div class="text-center card">
 	<p>
 	{#each $linkItems.links as link, i}
-		{#if i > 0} | {/if}
+		{#if i > 0}&nbsp;|{/if}
 		<a href="{link.dest}">
 			{link.text}
 		</a>
@@ -32,5 +32,5 @@
 		<!--- TODO: Why is this needed? ---> 
 		<slot />
 	</div>
-</section>
+</div>
 

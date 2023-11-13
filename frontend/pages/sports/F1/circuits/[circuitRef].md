@@ -11,3 +11,7 @@ sources:
     <Column id="country" title="Country" />
     <Column id="url" title="Wikipedia" contentType="link" openInNewTab="true" />
 </DataTable>
+
+---
+
+{@partial "f1-links.md"}

@@ -5,11 +5,7 @@ hide_title: True
 
 <h1 class="text-center title">Formula One</h1>
 
-<Links>
-    <Link dest="/sports/F1/drivers/" text="Drivers" />
-    <Link dest="/sports/F1/races/" text="Races" />
-    <Link dest="/sports/F1/circuits/" text="Circuits" />
-</Links>
+{@partial "f1-links.md"}
 
 ### TODO:
 - Add winners instead of Wikipedia link on the index page

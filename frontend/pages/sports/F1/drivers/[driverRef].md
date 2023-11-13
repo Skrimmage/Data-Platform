@@ -26,6 +26,10 @@ sources:
   value='points'
 />
 
+---
+
+{@partial "f1-links.md"}
+
 ```results
 select 
   *

@@ -1,9 +1,3 @@
-<Links>
-    <Link dest="/sports/F1/drivers/" text="Drivers" />
-    <Link dest="/sports/F1/races/" text="Races" />
-    <Link dest="/sports/F1/circuits/" text="Circuits" />
-</Links>
-
 ## All Races
 
 ```sql all_races
@@ -19,5 +13,7 @@ order by date;
     <Column id="url" title="Wikipedia" contentType="link" openInNewTab="true" />
 </DataTable>
 
+---
 
+{@partial "f1-links.md"}
 

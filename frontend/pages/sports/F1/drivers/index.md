@@ -4,11 +4,6 @@ hide_title: true
 sources:
   - drivers: f1/drivers.sql
 ---
-<Links>
-    <Link dest="/sports/F1/drivers/" text="Drivers" />
-    <Link dest="/sports/F1/races/" text="Races" />
-    <Link dest="/sports/F1/circuits/" text="Circuits" />
-</Links>
 
 ## List of drivers
 
@@ -18,3 +13,7 @@ sources:
     <Column id="nationality" title="Nationality" />
     <Column id="url" title="Wikipedia" contentType="link" openInNewTab="true" />
 </DataTable>
+
+---
+
+{@partial "f1-links.md"}

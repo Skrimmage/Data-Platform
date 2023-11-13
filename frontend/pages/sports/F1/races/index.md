@@ -19,3 +19,7 @@ order by date;
 </DataTable>
 
 [All historical races](./historical_races)
+
+---
+
+{@partial "f1-links.md"}
