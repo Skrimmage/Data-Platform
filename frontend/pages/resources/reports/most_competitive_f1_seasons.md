@@ -15,3 +15,7 @@ Points is a calculation of the number of drivers within 80%, 90%, and 95% of the
     <Column id="points" />
     <Column id="weighted_points" />
 </DataTable>
+
+<script>
+console.log('https://github.com/Skrimmage/Data-Platform/tree/main/frontend/pages' + $page.route['id'] + '/index.md')
+</script>
