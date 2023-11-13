@@ -19,7 +19,7 @@ hide_title: true
 
 ---
 
-<div class="text-center card" style="border: 1px solid; margin: 10px; padding: 10px; box-shadow: 5px 10px;">
+<div class="text-center card">
    <a href="NHL/" class="hover:underline"><h2>NHL</h2></a> <br>
 
    <div>

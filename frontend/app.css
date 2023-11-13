@@ -47,7 +47,7 @@
 		}
 
 		h2{
-			@apply mt-3 mb-1 text-xl font-semibold text-gray-800;
+			@apply mb-1 text-xl font-semibold text-gray-800;
 		}
 	}
 
