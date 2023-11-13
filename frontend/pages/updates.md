@@ -2,7 +2,12 @@
 title: Recent Updates
 ---
 
-- 2021/11/06
+- 2023/11/13
+  - Lots of Front-end improvements, including components and partials that will make scaling easier
+  - DuckDB as the core DB, CSV still works, which is ideal for managing smaller datasets like articles and authors
+
+
+- 2023/11/06
   - Updating Structure of the pages, including the Resources folder
     - Adding [Articles](/resources/articles/)
     - Adding [Libraries](/resources/libraries/)
