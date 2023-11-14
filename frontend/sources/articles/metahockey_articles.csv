@@ -1,0 +1,718 @@
+Title,Archive link,Primary Author(s),Year,Topic,Source,Keywords
+Puckerings Archive: Estimating Ice Time (14 Mar 2001),https://archive.ph/CRMeO,Iain Fyffe,2001,Measures,Hockey Historyis,"Estimation, eTOI, Time on Ice"
+Player Contribution: A Method for Allocating Credit for a Team's Performance to the Individual Contributors on a Hockey Team,https://web.archive.org/web/20210712080332/http://www.hockeyanalytics.com/Research_files/Player_Contribution_System.pdf,Alan Ryder,2003,Evaluation,Hockey Analytics,"Contribution, Player, Skaters"
+Win Probabilities: A Tour Through Win Probability Models for Hockey,https://web.archive.org/web/20210506113404/http://www.hockeyanalytics.com/Research_files/Win_Probabilities.pdf,Alan Ryder,2004,Win Probability,Hockey Analytics,Win Probability
+Shot Quality: A Methodology for the Study of the Quality of a Hockey Team's Shots Allowed,https://web.archive.org/web/20201109201023/http://hockeyanalytics.com/Research_files/Shot_Quality.pdf,Alan Ryder,2004,Measures,Hockey Analytics,Shot Quality
+League Equivalencies,https://web.archive.org/web/20201111234640/http://hockeyanalytics.com/Research_files/League_Equivalencies.pdf,Gabe Desjardins,2004,Evaluation,Hockey Analytics,"Draft, NHL, Prospects"
+Poisson Toolbox: A review of the application of the Poisson Probability Distribution in Hockey,https://web.archive.org/web/20210506074300/http://www.hockeyanalytics.com/Research_files/Poisson_Toolbox.pdf,Alan Ryder,2004,Miscellaneous,Hockey Analytics,Poisson
+Goal Prevention,https://web.archive.org/web/20201212021327/https://hockeyanalytics.com/Research_files/Goal_Prevention_2004.pdf,Alan Ryder,2004,Measures,Hockey Analytics,Shot Quality
+Projecting Junior Hockey Players and Translating Performance to the NHL,https://web.archive.org/web/20120504023629/http://www.behindthenet.ca/projecting_to_nhl.php,Gabe Desjardins,2004,Evaluation,Behind the Net,"Draft, NHL, Prospects"
+Shot Quality: A logistic regression approach to assessing NHL shots on goal,,Kevin Krzywicki,2005,Measures,Hockey Analytics,Shot Quality
+The Impact of Puck Possession and Location on Ice Hockey Strategy,,A.C. Thomas,2006,Strategy,Hockey Analytics,"Possession, Team"
+Product Recall Notice for 'Shot Quality': Data Quality Problems with the Measurement of the Quality of a Hockey Team's Shots Taken and Allowed,,Alan Ryder,2007,Measures,Hockey Analytics,Shot Quality
+Inter-arrival Times of Goals in Ice Hockey,,A.C. Thomas,2007,Miscellaneous,Hockey Analytics,
+Estimating AHL Quality of Competition by Looking at Points Per Game of Opposing Forwards,,Jonathan Willis,2008,Measures,Copper and Blue,Quality of Competition / Teammates
+Projecting Goalie Performance,,Bruce McCurdy,2008,Evaluation,Copper and Blue,Goalies
+Shot Quality,,Tore Purdy,2008,Measures,Objective NHL,Shot Quality
+Shot Attempts Against,,Philip Myrland,2008,Evaluation,Brodeur Is A Fraud,Goalies
+Goalie Fatigue,,Philip Myrland,2008,Evaluation,Brodeur Is A Fraud,"Goalies, Fatigue"
+Save Percentage and Shots Against,,Tore Purdy,2008,Evaluation,Objective NHL,Goalies
+Shot Quality Part 2: Shot Quality For,,Tore Purdy,2008,Measures,Objective NHL,Shot Quality
+Save Percentage vs. League Average,,Philip Myrland,2008,Evaluation,Brodeur Is A Fraud,"Goalies, Save Percentage, SV%"
+The Trouble With Drafting Goalies,,Kent Wilson,2008,Evaluation,Flames Nation,"Goalies, NHL Draft"
+Canadian Junior A NCAA/Major Junior Equivalencies,,Gabe Desjardins,2008,Evaluation,Behind the Net,"Draft, NHL, Prospects"
+The First Goal,,Tore Purdy,2008,Miscellaneous,Objective NHL,
+Estimating Brodeur's Shot Prevention,,Philip Myrland,2008,Evaluation,Brodeur Is A Fraud,"Goalies, Martin Brodeur, Puckhandling"
+Position Value and Wage Determinants,,Sean Watterson,2009,Miscellaneous,Clemson University,"Positions, Value, Salary Projection"
+The Importance of Context When Evaluating Shot Differential,,Derek Zona,2009,Measures,Copper and Blue,"Corsi, Fenwick"
+KHL-->NHL Equivalency with TOI,,Gabe Desjardins,2009,Evaluation,Arctic Ice Hockey,"Free Agency, KHL, Prospects"
+Even-Strength Goaltender Shot Quality Since the Lockout,,Gabe Desjardins,2009,Evaluation,Arctic Ice Hockey,"Goalies, Shot Quality"
+Removing Observer Bias from Shot Distance,,Ken Krzywicki,2009,Evaluation,PDF,"Recording Bias, Observer Bias, Shot Distance"
+Zone Shift,,Tore Purdy,2009,Measures,Objective NHL,Zone Entries / Exits / Starts
+Home Recording Bias: Shots on Goal,,Tore Purdy,2009,Measures,Objective NHL,Shot Quality
+Shot Recording Bias: Florida and New Jersey,,Tore Purdy,2009,Measures,Objective NHL,Shot Quality
+Corsi Corrected for Starting Shift Location,,Tore Purdy,2009,Measures,Objective NHL,"Corsi, Fenwick"
+Clutch Play,,Philip Myrland,2009,Evaluation,Brodeur Is A Fraud,"Goalies, Clutch"
+Numbers On Ice: Shooting to the score,,Tom Awad,2009,Evaluation,Hockey Prospectus,"Shot Quality, Score State"
+Up and Coming: Refining the estimate,,Iain Fyffe,2009,Evaluation,Hockey Prospectus,"NHL Draft, Prospects, Projections"
+Up and Coming: Projecting Defensemen,,Iain Fyffe,2009,Evaluation,Hockey Prospectus,"NHL Draft, Defensemen, Prospects"
+Behind the Net: One Goal Games,,Gabe Desjardins,2009,Evaluation,Hockey Prospectus,One Goal Games
+Playing with the Lead and the Percentages,,Tore Purdy,2009,Miscellaneous,Objective NHL,
+Behind the Net: Pulling the goalie,,Gabe Desjardins,2009,Evaluation,Hockey Prospectus,"Goaltenders, Trailing"
+Behind the Net: Junior Hockey Quality of Competition,,Gabe Desjardins,2009,Evaluation,Hockey Prospectus,"Quality of Competition, Prospects"
+Up and Coming: Exceptions that disprove the rule,,Iain Fyffe,2009,Evaluation,Hockey Prospectus,"NHL Draft, Prospects, Projections"
+"Numbers on Ice: Understanding Goals Versus Threshold (GVT), Part 3",,Tom Awad,2009,Evaluation,Hockey Prospectus,Skaters
+PP Shot Percentage: Correction,,Tore Purdy,2009,Measures,Objective NHL,Powerplay
+Howe and Why: Quality Starts,,Rob Vollman,2009,Evaluation,Hockey Prospectus,"Goaltenders, Quality Starts"
+Scoring Chances By Game State,,Tore Purdy,2009,Measures,Objective NHL,Shot Quality
+Up and Coming: Does height matter for defense?,,Iain Fyffe,2009,Evaluation,Hockey Prospectus,"NHL Draft, Prospects, Defensemen"
+Up and Coming: Projecting Goaltenders,,Iain Fyffe,2009,Evaluation,Hockey Prospectus,"NHL Draft, Goaltenders, Prospects"
+Numbers on Ice: Fixing Plus/Minus,,Tom Awad,2009,Evaluation,Hockey Prospectus,"Skaters, Plus/Minus, RPM"
+Coming off of a Win/Loss: The Effect of Prior Results,,Tore Purdy,2009,Miscellaneous,Objective NHL,
+Numbers on Ice: GVT Player Evaluations,,Tom Awad,2009,Evaluation,Hockey Prospectus,"Skaters, GVT, Goaltenders"
+"Numbers on Ice: Understanding Goals Versus Threshold (GVT), Part 1",,Tom Awad,2009,Evaluation,Hockey Prospectus,Skaters
+Up and Coming: The Beginning,,Iain Fyffe,2009,Evaluation,Hockey Prospectus,"NHL Draft, Prospects, Projections"
+Up and Coming: Stats aren't everything,,Iain Fyffe,2009,Evaluation,Hockey Prospectus,"NHL Draft, Prospects, Projections"
+"Numbers on Ice: Understanding Goals Versus Threshold (GVT), Part 2",,Tom Awad,2009,Evaluation,Hockey Prospectus,Skaters
+Behind the Net: The dangers of defensive zone faceoffs,,Gabe Desjardins,2009,Evaluation,Hockey Prospectus,Faceoffs
+Up and Coming: Central Scouting vs. One Little Number,,Iain Fyffe,2009,Evaluation,Hockey Prospectus,"NHL Draft, Prospects, Projections"
+The Value of Rebound Control,,Philip Myrland,2009,Evaluation,Brodeur Is A Fraud,"Goalies, Rebounds"
+Howe and Why: Projecting Future Scoring,,Rob Vollman,2009,Evaluation,Hockey Prospectus,"Projections, Skaters"
+Behind the Net: Shot Quality - Defensemen vs. Forwards,,Gabe Desjardins,2009,Evaluation,Hockey Prospectus,"Shot Quality, Forwards, Defensemen"
+Numbers on Ice: A Shot Quality Primer,,Tom Awad,2009,Introduction,Hockey Prospectus,Shot Quality
+Howe and Why: Translation factors and the AHL,,Rob Vollman,2009,Evaluation,Hockey Prospectus,"NHL Draft, AHL, Prospects"
+Why Goalie Equipment Was Not Responsible for the Scoring Drop,,Philip Myrland,2009,Evaluation,Brodeur Is A Fraud,"Equipment, Goalies, Scoring"
+The Win Threshold,,Philip Myrland,2009,Evaluation,Brodeur Is A Fraud,Goalies
+Up and Coming: Predicting NHL Success,,Iain Fyffe,2009,Evaluation,Hockey Prospectus,"NHL Draft, Prospects, Projections"
+Goalies in the First Round,,Scott Reynolds,2009,NHL Draft,Gospel of Hockey,
+Numbers on Ice: League equivalencies and GVT,,Tom Awad,2009,Evaluation,Hockey Prospectus,"NHL Draft, Prospects, Projections"
+Behind the Net: Rebounds,,Gabe Desjardins,2009,Evaluation,Hockey Prospectus,"Shot Quality, Rebounds"
+Playing with the Lead and the Percentages - Part Two,,Tore Purdy,2009,Miscellaneous,Objective NHL,
+Behind the Net: The Value of a Wide-Open Shot,,Gabe Desjardins,2009,Evaluation,Hockey Prospectus,"Shot Quality, Shootout"
+Howe and Why: Using playoff scoring to predict the following season,,Rob Vollman,2009,Evaluation,Hockey Prospectus,"Playoffs, Skaters, Projections"
+A Castle Built on Sand,,Tom Awad,2009,Measures,Puck Prospectus,Rink Bias
+Even Strength Shooting Percentage,,Tore Purdy,2009,Measures,Objective NHL,Shooting Percentage
+How Do Goalies Age?,,David Johnson,2010,Evaluation,Hockey Analysis,"Aging Curves, Goalies"
+How Do Goalies Age? Part 2,,David Johnson,2010,Evaluation,Hockey Analysis,"Aging Curves, Goalies"
+Shot Distribution by Game State,,Scott Reynolds,2010,Evaluation,Copper and Blue,"Goalies, SV%, Game State"
+On NHL Equivalencies,,Scott Reynolds,2010,Evaluation,Copper and Blue,Prospects
+"Mo' Money, Mo' Skills - ELC as Predictor of Future Success",,Scott Reynolds,2010,Evaluation,Copper and Blue,"Aging Curves, Prospects"
+Shot Distribution by Game State,,Scott Reynolds,2010,Evaluation,Copper and Blue,Goalies
+Finnish Comps - The Military Service Problem,,Derek Zona,2010,Evaluation,Copper and Blue,NHL Draft
+Shot Location by Shot Type,,Gabe Desjardins,2010,Measures,Arctic Ice Hockey,"Classifcation, Shots"
+Luck in the NHL Standings,,Gabe Desjardins,2010,Miscellaneous,Arctic Ice Hockey,"Luck, Team"
+Goaltender Talent,,Gabe Desjardins,2010,Evaluation,Arctic Ice Hockey,Goalies
+Changing Goalies = Shuffling the Deck Chairs?,,Gabe Desjardins,2010,Evaluation,Arctic Ice Hockey,Goalies
+How Good is Your Power-Play?,,Gabe Desjardins,2010,Measures,Arctic Ice Hockey,Powerplay
+Is It Possible to Determine Goaltender True Talent on the PK>,,Gabe Desjardins,2010,Evaluation,Arctic Ice Hockey,"Goalies, Penalty Kill"
+Goaltender Save Percentage by Age,,Gabe Desjardins,2010,Evaluation,Arctic Ice Hockey,"Aging Curves, Goalies"
+Goaltender Salary per Win 2000-01 to 2009-10,,Gabe Desjardins,2010,Evaluation,Arctic Ice Hockey,"Free Agency, Goalies"
+Are Expensive Goaltenders Worth the Money?,,Gabe Desjardins,2010,Evaluation,Arctic Ice Hockey,"Free Agency, Goalies"
+Fooled by Randomness: Goaltender Save Percentage,,Gabe Desjardins,2010,Evaluation,Arctic Ice Hockey,Goalies
+Corsi and Score Effects,,Gabe Desjardins,2010,Measures,Arctic Ice Hockey,Corsi / Fenwick
+Slight Statistical Improvement: Corsi Qualcomp,,Gabe Desjardins,2010,Measures,Arctic Ice Hockey,Quality of Competition / Teammates
+Strategies for Pulling the Goalie in Hockey,,David Beaudoin,2010,Evaluation,Simon Fraser University,"Strategy, Goalies"
+"Martin Brodeur, Goaltender, and Bayesian Inference",,Sunny Mehta,2010,Evaluation,PDF,"Bayesian, Goaltending, ERCS%"
+Shot Recording Bias: part n,,Tore Purdy,2010,Measures,Objective NHL,Shot Quality
+NHL Shot Quality 2009-2010: A look at shot angles and rebounds,,Kevin Krzywicki,2010,Measures,Hockey Analytics,Shot Quality
+Illegal Curve: Blocked shots and standings points,,Richard Pollock,2010,Evaluation,Hockey Prospectus,Blocked Shots
+Numbers on Ice: How much skill is there in goaltending?,,Tom Awad,2010,Evaluation,Hockey Prospectus,Goalies
+Numbers On Ice: Plus-Minus and Corsi have a baby,,Tom Awad,2010,Evaluation,Hockey Prospectus,"Shot Quality, Delta"
+Luck In The NHL Standings,,Gabe Desjardins,2010,Evaluation,Arctic Ice Hockey,"Luck, Standings, Parity"
+Calculating Point Shares,,Justin Kubatko,2010,Evaluation,Hockey Reference,"Points, Shares, Skaters"
+Numbers On Ice: Delta with teammate adjustments - DeltaSOT,,Tom Awad,2010,Evaluation,Hockey Prospectus,"Quality of Teammates, Skaters"
+The Playoff Value of Grinders: Are they important?,,Tom Awad,2010,Evaluation,Hockey Prospectus,"Playoffs, Grinders"
+Numbers on Ice: Does Shot Quality Exist?,,Tom Awad,2010,Measures,Hockey Prospectus,Shot Quality
+Illegal Curve: Hits and team success,,Richard Pollock,2010,Evaluation,Hockey Prospectus,Hits
+The Repeatability of Special Teams Performance,,Tore Purdy,2010,Measures,Objective NHL,Powerplay
+Up and Coming: Developing the Inductinator,,Iain Fyffe,2010,Evaluation,Hockey Prospectus,Hall of Fame
+Corsi Corrected for Schedule Difficulty,,Tore Purdy,2010,Measures,Objective NHL,"Corsi, Fenwick"
+A Closer Look at the Relative Age Effect in the National Hockey League,,Vittorio Addona,2010,NHL Draft,Hockey Analytics,
+In The Crease: Goalie Support,,Philip Myrland,2010,Evaluation,Hockey Prospectus,Goal Support
+"Numbers on Ice: What makes good players good, part one",,Tom Awad,2010,Evaluation,Hockey Prospectus,Skaters
+"Numbers on Ice: What makes good players good, part three",,Tom Awad,2010,Evaluation,Hockey Prospectus,Skaters
+"Numbers on Ice: What makes good players good, part four",,Tom Awad,2010,Evaluation,Hockey Prospectus,Skaters
+Howe and Why: Ten Ways to Measure Defensive Contributions,,Rob Vollman,2010,Evaluation,Hockey Prospectus,"Defense, Skaters"
+Illegal Curve: The correlation between giveaways and points in the standings,,Richard Pollock,2010,Evaluation,Hockey Prospectus,Giveaways
+"In The Crease: Shot Recording in the NHL, Part One: Do teams play differently on the road?",,Philip Myrland,2010,Evaluation,Hockey Prospectus,"Shots, Road"
+"Numbers on Ice: What makes good players good, part two",,Tom Awad,2010,Evaluation,Hockey Prospectus,Skaters
+Forest vs. Trees,,Tim Barnes,2010,Measures,Irreverant Oilers Fans,"Defenders, Save Percentage"
+Events and Time On Ice - Estimating AHL TOI,,Scott Reynolds,2011,Evaluation,Copper and Blue,NHL Draft
+The Impact of Luck on Prospects,,Derek Zona,2011,Evaluation,Copper and Blue,NHL Draft
+The role of variance in hockey,,Eric Tulsky,2011,Evaluation,Broadstreet Hockey,"Variance, Team"
+Zone Entries: What Drives Powerplay Success?,,Eric Tulsky,2011,Measures,Broadstreet Hockey,"Powerplay, Zone Entries"
+What Makes a Good Special Teams Unit?,,Eric Tulsky,2011,Measures,Broadstreet Hockey,Powerplay
+Do young forwards shoot more as they mature?,,Eric Tulsky,2011,Evaluation,Broadstreet Hockey,"Aging Curves, Skaters"
+"How SOG rates change with age, part 2",,Eric Tulsky,2011,Evaluation,Broadstreet Hockey,"Aging Curves, Skaters"
+Do You Get What You Pay for with Goalies?,,Eric Tulsky,2011,Evaluation,Broadstreet Hockey,"Free Agency, Goalies"
+Balanced zone shifts: the evolution of a new statistic,,Eric Tulsky,2011,Measures,Broadstreet Hockey,Zone Entries/Exits/Starts
+Zone entries and scoring chances,,Eric Tulsky,2011,Measures,Broadstreet Hockey,Zone Entries/Exits/Starts
+Do Playmakers Drive Teammates’ Shooting Percentage?,,Eric Tulsky,2011,Measures,Broadstreet Hockey,Quality of Competition / Teammates
+Young Forwards and Tough Defensive Minutes,,Eric Tulsky,2011,Measures,Broadstreet Hockey,Quality of Competition / Teammates
+Balanced Corsi: Who is best at their role?,,Eric Tulsky,2011,Measures,Broadstreet Hockey,Zone Entries / Exits / Starts
+The luck involved in scoring,,ThrashersRecaps,2011,Miscellaneous,Arctic Ice Hockey,"Luck, Scoring, Team"
+Sample Size War: Goals Part I (Forwards),,SnarkSD,2011,Measures,Arctic Ice Hockey,"Forwards, Skaters"
+Sample Size War: Goal Reliability Part II (Defensemen),,SnarkSD,2011,Measures,Arctic Ice Hockey,"Defenders, Skaters"
+"Sample Size War: Forward G, A, Pts, +/-, PIM reliability and regression to the mean",,SnarkSD,2011,Measures,Arctic Ice Hockey,Skaters
+"Sample Size War: With so much luck, when are stats useful?",,SnarkSD,2011,Measures,Arctic Ice Hockey,
+How Does the Defensive Shell Work?,,Gabe Desjardins,2011,Strategy,Arctic Ice Hockey,
+Luck vs. Shot Quality in Shooting Percentage,,Gabe Desjardins,2011,Measures,Arctic Ice Hockey,"Luck, Shot Quality"
+Shot Distance Allowed as a Team Talent,,Gabe Desjardins,2011,Measures,Arctic Ice Hockey,Shot Distance
+1st Assist and 2nd Assist Bias,,Gabe Desjardins,2011,Measures,Arctic Ice Hockey,"Assists, Bias, Primary Assist, Secondary Assist, Scoring"
+Advanced Metrics: PDO and Regression to the Mean,,Gabe Desjardins,2011,Measures,Arctic Ice Hockey,"PDO, Regression"
+PDO If you were going to understand just one NHL statistic,,Gabe Desjardins,2011,Introduction,Arctic Ice Hockey,"PDO, Team"
+What Drives Power-Play Success?,,Gabe Desjardins,2011,Measures,Arctic Ice Hockey,Powerplay
+Measuring Defensive Assignments on the PK,,Gabe Desjardins,2011,Measures,Arctic Ice Hockey,Penalty Kill
+On-Ice Shooting Percentage as a Player Talent,,Gabe Desjardins,2011,Evaluation,Arctic Ice Hockey,"Shooting Percentage, SH%, Skaters"
+Is there streakiness in even-strength shooting percentage?,,Gabe Desjardins,2011,Evaluation,Arctic Ice Hockey,"Shooting Percentage, SH%, Skaters"
+What do NHL GMs Think is Replacement-Level Goaltending?,,Gabe Desjardins,2011,Evaluation,Arctic Ice Hockey,Goalies
+The Importance of a Goalie’s First 15 Games,,Gabe Desjardins,2011,Evaluation,Arctic Ice Hockey,Goalies
+The Impossibility of Projecting Goaltenders,,Gabe Desjardins,2011,Evaluation,Arctic Ice Hockey,Goalies
+Shot Distance Allowed as a Team Talent,,Gabe Desjardins,2011,Measures,Arctic Ice Hockey,Shot Quality
+Luck vs. Shot Quality in Shooting Percentage,,Gabe Desjardins,2011,Measures,Arctic Ice Hockey,Shot Quality
+How Does the Defensive Shell Work?,,Gabe Desjardins,2011,Measures,Arctic Ice Hockey,Corsi / Fenwick
+Can a Player Influence his Teammates’ Shooting Percentage?,,Gabe Desjardins,2011,Measures,Arctic Ice Hockey,Quality of Competition / Teammates
+Further to: Does QualComp Matter?,,Gabe Desjardins,2011,Measures,Arctic Ice Hockey,Quality of Competition / Teammates
+A back-door attempt at the shot quality prize,,Eric Tulsky,2011,Measures,Arctic Ice Hockey,"Shot Quality, Skaters"
+Does QualComp Matter?,,Dirk Hoag,2011,Measures,Arctic Ice Hockey,Quality of Competition / Teammates
+Expected Shots-For and Shots-Against at Different Zone Starts,,Bettman's Nightmare,2011,Measures,Arctic Ice Hockey,Zone Entries / Exits / Starts
+A Defense Independent Rating of NHL Goaltenders using Spatially Smoothed Save Percentage Maps,,Michael Schuckers,2011,Evaluation,Sloan Sports Conference,Goalies
+"Shots, Fenwick, and Corsi",,Tore Purdy,2011,Measures,Objective NHL,"Corsi, Fenwick"
+Loose Ends - Part 2: Score Effects and Minor Penalties,,Tore Purdy,2011,Measures,Objective NHL,"Corsi, Fenwick"
+Loose Ends - Part 1: Predicting Future Success,,Tore Purdy,2011,Measures,Objective NHL,"Corsi, Fenwick"
+Benchmarcs: Determining the value of unrealized draft picks,,Marc Foster,2011,Evaluation,Hockey Prospectus,"NHL Draft, Trades"
+Howe and Why: Relief Goaltending,,Rob Vollman,2011,Evaluation,Hockey Prospectus,"Goaltenders, Backups"
+How Well Do Scoring Events Reflect Ice Time?,,Scott Reynolds,2011,Evaluation,Copper and Blue,"Goals, Points, Time on Ice, CHL, Prospects"
+"Yeah, But: QualComp",,Jared L.,2011,Measures,Driving Play,Quality of Competition / Teammates
+Team Effects and Penalty Kill Save Percentage,,Tore Purdy,2011,Evaluation,Objective NHL,Goalies
+"Howe and Why: AHL Translations, Summary",,Rob Vollman,2011,Evaluation,Hockey Prospectus,"AHL, Prospects, Projections"
+On Zone Starts,,Jared L.,2011,Measures,Driving Play,Zone Entries / Exits / Starts
+How and Why: OZ Coke Charts,,Rob Vollman,2011,Measures,Hockey Prospectus,Quality of Competition
+How Often does the Best Team Win?,,Tore Purdy,2011,Miscellaneous,Objective NHL,
+Loose Ends - Part III C: The Powerplay,,Tore Purdy,2011,Measures,Objective NHL,Powerplay
+Howe and Why: How Good is Snepsts,,Rob Vollman,2011,Models,Hockey Prospectus,"Snepsts, VUKOTA"
+"Howe and Why: AHL Translations, Age 23-26",,Rob Vollman,2011,Evaluation,Hockey Prospectus,"AHL, Prospects, Projections"
+"Howe and Why: AHL Translations, Under Age 23",,Rob Vollman,2011,Evaluation,Hockey Prospectus,"AHL, Prospects, Projections"
+"Why Future Performances, Not Consistency, Matters",,Neil Greenberg,2011,Evaluation,Russian Machine Never Breaks,Skaters
+Team Even Strength Shooting Talent,,Tore Purdy,2011,Miscellaneous,Objective NHL,"Shooting, Talent, Team"
+Team Effects and Even Strength Save Percentage,,Tore Purdy,2011,Evaluation,Objective NHL,Goalies
+Shots On Goal: Ultimate Faceoff Percentage (UFO%),,Timo Seppa,2011,Evaluation,Hockey Prospectus,Faceoffs
+Loose Ends - Part III B: The Powerplay,,Tore Purdy,2011,Measures,Objective NHL,Powerplay
+"Up and Coming: The Projectinator Revised, and the Effect of Birth Months",,Iain Fyffe,2011,Evaluation,Hockey Prospectus,"NHL Draft, Prospects"
+Loose Ends - Part III A: The Powerplay,,Tore Purdy,2011,Measures,Objective NHL,Powerplay
+Howe and Why: AHL Translations Revisited,,Rob Vollman,2011,Evaluation,Hockey Prospectus,"AHL, Prospects, Projections"
+Adjusting for Zone Starts: Zone Start Adjusted Corsi,,Jared L.,2011,Measures,Driving Play,Zone Entries / Exits / Starts
+Even Strength Outshooting and Team Quality,,Tore Purdy,2011,Miscellaneous,Objective NHL,"Outshooting, Quality, Team"
+How Much Do Wins Cost,,Gabe Desjardins,2011,Measures,Arctic Ice Hockey,"Wins, Cost, Replacement Level"
+"Howe and Why: AHL Translations, Over Age 26",,Rob Vollman,2011,Evaluation,Hockey Prospectus,"AHL, Prospects, Projections"
+"On Luck, Skill, and Sample Size in Shooting Percentage",,Jared L.,2011,Evaluation,Driving Play,Skaters
+How Good is the KHL?,,Bruce Peter,2011,Evaluation,Puck Worlds,"NHL Draft, KHL, Free Agency"
+"Quantifying the Contribution of NHL Player
+Types to Team Performance",,Timothy Chan,2012,Evaluation,Interfaces,"Clusters, Positions, Goalies, Regression"
+Importance of Quality of Competition / Teammates,,David Johnson,2012,Measures,Hockey Analysis,Quality of Competition / Teammates
+Relative Importance of a Player’s Impact on Teammate Shooting Percentage,,David Johnson,2012,Measures,Hockey Analysis,Quality of Competition / Teammates
+Adjusting for Zone Starts,,David Johnson,2012,Measures,Hockey Analysis,Zone Entries / Exits / Starts
+Zone Start Effects on Stats,,David Johnson,2012,Measures,Hockey Analysis,Zone Entries / Exits / Starts
+Zone Start Effects on Goalie Save Percentage,,David Johnson,2012,Measures,Hockey Analysis,Zone Entries / Exits / Starts
+Intro to advanced hockey statistics - PDO,,Steve Burtch,2012,Introduction,Pension Plan Puppets,PDO
+Intro to advanced hockey statistics - Corsi,,Steve Burtch,2012,Introduction,Pension Plan Puppets,Corsi
+Intro to Advanced Hockey Statistics - Fenwick,,Steve Burtch,2012,Introduction,Pension Plan Puppets,Fenwick
+AHL to NHL Shot Translations,,Stephan Cooper,2012,Evaluation,Habs Eyes on the Prize,NHL Draft
+AHL to NHL Translations: Save Percentage,,Stephan Cooper,2012,Evaluation,Habs Eyes on the Prize,Goalies
+What Should We Expect from NHL Goaltenders,,Bruce Peter,2012,Evaluation,Habs Eyes on the Prize,Goalies
+Score%: Additional Context to Contemplate,,SnarkSD,2012,Measures,Fear the Fin,"Corsi, Fenwick"
+Replacement Level Goaltending in the NHL,,Scott Reynolds,2012,Evaluation,Copper and Blue,"Goalies, Replacement Level"
+"Aging Goalies: What Does the Future Hold for Luongo, Miller, and Bryzgalov?",,Jared L.,2012,Evaluation,Copper and Blue,Goalies
+NHL Average Save Percentages Still On The Rise,,Derek Zona,2012,Measures,Copper and Blue,"Goalies, Save Percentage, SV%"
+The Relationship Between Shootout Sv% and Sv%,,Eric Tulsky,2012,Evaluation,Broadstreet Hockey,"Goalies, Save Percentage, Shootouts, SV%"
+Do Goaltenders Really Get In A Rhythm?,,Eric Tulsky,2012,Evaluation,Broadstreet Hockey,Goalies
+Judging Goalies: Should We Include PK Save Percentage?,,Eric Tulsky,2012,Evaluation,Broadstreet Hockey,Goalies
+Adjusting for Score Effects to Improve Our Predictions,,Eric Tulsky,2012,Measures,Broadstreet Hockey,Corsi / Fenwick
+A Deeper Look Into In-Game Expected Points,,SnarkSD,2012,Models,Arctic Ice Hockey,"Expected Points, Team"
+Jonathan Quick - not good high stick side?,,Gabe Desjardins,2012,Evaluation,Arctic Ice Hockey,"Goalies, Save Location"
+Does it take different amounts of time to assess a player's talent?,,Gabe Desjardins,2012,Evaluation,Arctic Ice Hockey,Prospects
+Impact of Last Change on Quality of Competition,,Gabe Desjardins,2012,Measures,Arctic Ice Hockey,Quality of Competition / Teammates
+An Analysis of NHL Faceoffs,,Michael Schuckers,2012,Evaluation,Stats Sports Consulting,Faceoffs
+An Expected Goals Model for Evaluation NHL Teams and Players,,Brian Macdonald,2012,Measures,Sloan Sports Conference,"Expected Goals, Shot Quality"
+New Insights Involving the Home Team Advantage,,Tim Swartz,2012,Measures,Simon Fraser University,Home Ice Advantage
+"Adjusted Plus-Minus for NHL Players Using Ridge Regression with Goals, Shots, Fenwick, and Corsi",,Brian Macdonald,2012,Evaluation,Arxiv,Skaters
+"Evaluating NHL Goalies, Skaters, and Teams Using Weighted Shots",,Brian Macdonald,2012,Measures,Arxiv,Shot Quality
+Do hockey fights lift a team's perfomrance? Part II,,Phil Birnbaum,2012,Fighting,Sabermetric Research,"Fighting, Skaters"
+How Efficient is the NHL Goaltending Market?,,Gabe Desjardins,2012,Evaluation,NHL Numbers,Goalies
+Looking at AHL Goaltenders vs. NHL Players,,Rob Pettapiece,2012,Evaluation,NHL Numbers,Goalies
+Do hockey fights lift a team's performance?,,Phil Birnbaum,2012,Fighting,Sabermetric Research,"Fighting, Skaters"
+"Hogging the puck: Who's doing it, and who should be doing it",,Benjamin Wendorf,2012,Evaluation,NHL Numbers,Skaters
+"Pucks From the Past: Team Playoff Performance, Part 1",,Iain Fyffe,2012,Evaluation,Hockey Prospectus,"Playoffs, Team"
+Quantifying Players' Impact on Teammates Shooting Percentage,,Eric Tulsky,2012,Measures,NHL Numbers,Quality of Competition / Teammates
+SnapShot: Visualization to Propel Ice Hockey Analytics,,Hannah Pileggi,2012,Measures,Georgia Tech College of Computing,"Shot Quality, Visualization"
+Why are goalie save percentages rising?,,Eric Tulsky,2012,Evaluation,NHL Numbers,"Goalies, Save Percentage, SV%"
+Shot Quality Revisited: A Look at the Correlation between Scoring Chances and Shot Totals,,Eric Tulsky,2012,Measures,NHL Numbers,Shot Quality
+The Importance of Quality of Competition,,Eric Tulsky,2012,Measures,NHL Numbers,Quality of Competition / Teammates
+Adjusting Time On Ice: Can 5v5% tell us more about TOI?,,Benjamin Wendorf,2012,Measures,NHL Numbers,"Skaters, Time on Ice Percentage, TOI%"
+The Myth of the Hot Goalie: Consistent Goaltenders vs. Inconsistent Goaltenders,,Eric Tulsky,2012,Evaluation,NHL Numbers,Goalies
+AHL-NHL Equivalencies in a Lockout Year,,Eric Tulsky,2012,Evaluation,NHL Numbers,NHL Draft
+Allsvenskan NHL Equivalence,,Kent Wilson,2012,NHL Draft,NHL Numbers,Skaters
+"Howe and Why: Goals Versus Salary, 2011-12",,Rob Vollman,2012,Evaluation,Hockey Prospectus,"Goals Versus Threshold, GVT"
+The Effect of Zone Starts on Offensive Zone Production,,Rob Pettapiece,2012,Measures,NHL Numbers,Zone Entries / Exits / Starts
+A Competition Metric Based on Ice Time,,Eric Tulsky,2012,Measures,NHL Numbers,Quality of Competition / Teammates
+Tender Touches: An Attempt to Measure Martin Brodeur's Puckhandling,,Bruce McCurdy,2012,Evaluation,Edmonton Journal,"Goalies, Martin Brodeur, Puckhandling"
+"How goalies age, and the survivorship problem",,Eric Tulsky,2012,Evaluation,NHL Numbers,"Aging Curves, Goalies"
+More on the Advantages of Puck Possession over Dump and Chase,,Eric Tulsky,2012,Measures,NHL Numbers,Zone Entries / Exits / Starts
+Howe and Why: Passes,,Rob Vollman,2012,Measures,Hockey Prospectus,"Passes, Passing"
+"Do Zone Starts Really Matter and If So, How Much?",,David Johnson,2013,Measures,Hockey Analysis,Zone Entries/Exits/Starts
+Stats Made Simple Part 2: Score Close and Score Effects,,Jen Lute Costella,2013,Introduction,Second City Hockey,"Score Close, Corsi, Score Effects"
+Stats Made Simple Part 1: Corsi and Fenwick,,Jen Lute Costella,2013,Introduction,Second City Hockey,"Corsi, Fenwick"
+How to forecast NHL goaltending performance,,Eric Tulsky,2013,Evaluation,SB Nation,Goaltenders
+The value of the first goal,,Eric Tulsky,2013,Miscellaneous,SB Nation,"First, Scoring, Team"
+Theoretical Goaltending Aging Curve,,Steve Burtch,2013,Evaluation,Pension Plan Puppets,"Goaltenders, Aging Curve"
+What statistics are meaningful in a given season?,,Steve Burtch,2013,Introduction,Pension Plan Puppets,"Corsi, Fenwick, PDO"
+Making Use of New Ideas - dCorsi,,Steve Burtch,2013,Measures,Pension Plan Puppets,Corsi / Fenwick
+How to Bring Shot Quality into Player Evaluation,,Eric Tulsky,2013,Measures,Outnumbered,Shot Quality
+Special Teams Part I: Minor Penalty Opportunities and Time,,SnarkSD,2013,Measures,Fear the Fin,Powerplay
+Special Teams Part II: What Drives Power Play and Penalty Kill Success?,,SnarkSD,2013,Measures,Fear the Fin,Powerplay
+Why Possession Matters - A Visual Guide To Fenwick,,Chris Boyle,2013,Measures,Eyes On The Prize,"Playoffs, Prediction, Fenwick"
+Getting the Most for Your Money,,Eric Tulsky,2013,NHL Free Agency,Broadstreet Hockey,"Free Agency, NHL"
+"Time spares no man, except maybe the PP specialist",,Eric Tulsky,2013,Measures,Broadstreet Hockey,Powerplay
+Simplify scoring: drop the pointless secondary assist,,Eric Tulsky,2013,Measures,Broadstreet Hockey,"Assists, Secondary, Skaters"
+Hidden value: Penalty Differential,,Eric Tulsky,2013,Evaluation,Broadstreet Hockey,"Penalties, Skaters"
+Fooled by randomness: How to evaluate defensemen,,Eric Tulsky,2013,Evaluation,Broadstreet Hockey,"Defensemen, Skaters"
+How do shooting percentage and shot rates each impact scoring,,Eric Tulsky,2013,Evaluation,Broadstreet Hockey,"Aging Curves, Skaters"
+NHL draft: What does it cost to trade up?,,Eric Tulsky,2013,Measures,Broadstreet Hockey,NHL Draft
+Analyzing prospect usage,,Eric Tulsky,2013,Evaluation,Broadstreet Hockey,NHL Draft
+Why goalies should almost never start back-to-back games,,Eric Tulsky,2013,Evaluation,Broadstreet Hockey,"Back-to-Back, Goalies"
+Total Hockey Rating (THoR): A Comprehensive Statistical Rating of National Hockey League Forwards and Defensemen based upon all On-Ice Events,,Michael Schuckers,2013,Evaluation,Sloan Sports Conference,Skaters
+"Using Zone Entry Data To Separate Offensive, Neutral, And Defensive Zone Performance",,Eric Tulsky,2013,Measures,Sloan Sports Conference,Zone Entries / Exits / Starts
+Estimating Player Contribution in Hockey with Regularized Logistic Regression,,Robert Gramacy,2013,Evaluation,Arxiv,Skaters
+The Pythagorean Won-Loss Formula and Hockey,,Kevin Dayaratna,2013,Miscellaneous,Arxiv,
+Competing Process Hazard Function Models for Player Ratings in Ice Hockey,,A.C. Thomas,2013,Evaluation,Arxiv,Skaters
+"Defense, Defensemen, and the Draft",,Rhys Jessop,2013,Evaluation,That's Offside,"Defenders, Draft, NHL, Prospects, Skaters"
+Piecing the Shot Puzzle Together,,Michael Parkatti,2013,Measures,Boys on the Bus,Shot Quality
+Testing the Predictive Value of Expected Goals vs Other Metrics,,Michael Parkatti,2013,Measures,Boys on the Bus,Shot Quality
+An Evaluation of the Total Hockey Ranking (THoR) - Part I,,Michael Schuckers,2013,Evaluation,Statistical Sports Consulting,Skaters
+The Benefits of the 4-Forward Powerplay,,Matt Cane,2013,Measures,Puck++,Powerplay
+A Graphic Guide to Advanced Hockey Stats,,Petbugs,2013,Introduction,Canucks Army,"Fenwick, Corsi"
+The Value of Rebounds,,Michael Parkatti,2013,Measures,Boys on the Bus,Shot Quality
+Combining Shot Differentials with Shot Distances,,Michael Parkatti,2013,Measures,Boys on the Bus,Shot Quality
+Ranking All NHL Forwards by Line with Adjusted Corsi,,Michael Parkatti,2013,Measures,Boys on the Bus,Corsi / Fenwick
+A Closer Look: An intro to zone exits,,Corey Sznajder,2013,Measures,Hockey Prospectus,Zone Exits
+Dissecting the Effectiveness of Shot Types,,Michael Parkatti,2013,Measures,Boys on the Bus,Shot Quality
+Adjusting Corsi for Zone Starts and Quality Factors,,Michael Parkatti,2013,Measures,Boys on the Bus,Corsi / Fenwick
+The True Impact of a Hockey Fight,,Xavier Weisenreader,2013,Fighting,Georgetown Sports Analysis,"Fighting, Skaters"
+Advanced Stats Crash Course: Possession (Part 1),,Kent Wilson,2013,Introduction,NHL Numbers,"Corsi, Possession"
+An Evaluation of the Total Hockey Ranking (THoR) - Part II,,Michael Schuckers,2013,Evaluation,Statistical Sports Consulting,Skaters
+Machine Learning And Hockey - Is There A Theoretical Limit On Predictions?,,Josh Weissbock,2013,Evaluation,NHL Numbers,"Machine Learning, Luck, Standings"
+Slicing and Dicing: Re-Examining Data on Draft Eligible D-Men,,Rhys Jessop,2013,Evaluation,That's Offside,NHL Draft
+The Faker's Guide to Advanced Stats in the NHL,,Sean McIndoe,2013,Introduction,Grantland,"Corsi, Fenwick, Possession, Plus/Minus"
+An Evaluation of the Total Hockey Ranking (THoR) - Part III,,Michael Schuckers,2013,Evaluation,Statistical Sports Consulting,Skaters
+Bayesian Approach to Analyzing Goalies - Part 2: An Example,,Brian MacDonald,2013,Evaluation,Greater Than Plus Minus,"Goalies, Bayesian, Save Percentage, SV%"
+Bayesian Approach to Analyzing Goalies - Part 4,,Brian MacDonald,2013,Evaluation,Greater Than Plus Minus,"Goalies, Bayesian, Save Percentage, SV%"
+Bayesian Approach to Analyzing Goalies - Part 1,,Brian MacDonald,2013,Evaluation,Greater Than Plus Minus,"Goalies, Bayesian, Save Percentage, SV%"
+Bayesian Approach to Analyzing Goalies - Part 3: Updating Estimates with More Data,,Brian MacDonald,2013,Evaluation,Greater Than Plus Minus,"Goalies, Bayesian, Save Percentage, SV%"
+Why Zone Starts Don't Matter Much,,David Johnson,2014,Measures,Hockey Analysis,Zone Entries/Exits/Starts
+"Introducing ""Rush"" Shots",,David Johnson,2014,Measures,Hockey Analysis,Shot Quality
+How to project NHL scoring rates,,Eric Tulsky,2014,Evaluation,SB Nation,"Aging Curves, Skaters"
+How shot attempt differential changes with age,,Eric Tulsky,2014,Evaluation,SB Nation,"Aging Curves, Skaters"
+How NHL scoring rates change with age,,Eric Tulsky,2014,Evaluation,SB Nation,"Aging Curves, Skaters"
+Which type of NHL forward ages most gracefully?,,Eric Tulsky,2014,Evaluation,SB Nation,"Aging Curves, Skaters"
+Quantifying the added importance of recent data,,Eric Tulsky,2014,Evaluation,SB Nation,Goalies
+Using Zone Entries to Measure Defensive Contributions,,Eric Tulsky,2014,Measures,Outnumbered,Zone Entries / Exits / Starts
+"Forecasting Success in the
+National Hockey League using In-Game Statistics and Textual Data",,Josh Weissbock,2014,Evaluation,University of Ottawa,"Models, Analytics"
+Accounting for Rink Effects in the National Hockey League’s Real Time Scoring System,,Michael Schuckers,2014,Measures,Stats Sports Consulting,Corsi / Fenwick
+Accounting for Rink Effects in the National Hockey League's Real Time Scoring System,,Michael Schuckers,2014,Evaluation,PDF,"Rink Bias, Recording Bias, Rink Effects"
+Outperforming PDO: Mirages and Oases in the NHL,,Benjamin Wendorf,2014,Measures,Hockey Graphs,"PDO, Team"
+Year-to-Year Repeatability of New Goalie Stats,,Dawson Sprigings,2014,Evaluation,Don't Tell Me About Heart,Goalies
+Schedule Adjustment for Counting Stats,,Micah Blake McCurdy,2014,Measures,Hockey-Graphs,"Schedule, Home Ice Advantage, Single Game Prediction"
+"CHL Goalies, Decision Making, and Hockey Canada's Failings",,Rhys Jessop,2014,Evaluation,That's Offside,"Goalies, NHL Draft"
+Shot Location Data and Strategy: Off-Hand Defencemen,,Matt Cane,2014,Evaluation,Puck++,Defenders
+Corsi Against Doesn’t Correlate with Save Percentage,,Dawson Sprigings,2014,Evaluation,Don't Tell Me About Heart,"Corsi, Goalies, Save Percentage"
+Why NHL players peak before age 28 or 29,,Eric Tulsky,2014,Evaluation,Washington Post,"Aging Curves, Skaters"
+Adjusted Draft Year Scoring for CHL Prospects,,Rhys Jessop,2014,Evaluation,That's Offside,NHL Draft
+"More on Corsi and Context, with some added predictive modeling",,Garret Hohl,2014,Measures,Hockey Graphs,Corsi
+The Significance of Quality of Competition,,Domenic Galamini,2014,Measures,Blue and White Brotherhood,Quality of Competition / Quality of Teammates
+A Rule of 60-40: Thoughts on Individual Player Possession Metrics,,Benjamin Wendorf,2014,Measures,Hockey Graphs,"Corsi, Skaters"
+How much does matching competition matter on a team level?,,Garik16,2014,Measures,Hockey Graphs,"Competition, Quality, Skaters, Teammates"
+Better Way to Compute Score-Adjusted Fenwick,,Micah Blake McCurdy,2014,Measures,Sens Stats,Corsi / Fenwick
+"NHL Team History, Possession, and Winning the Stanley Cup",,Benjamin Wendorf,2014,Measures,Hockey Graphs,"Corsi, Team"
+NHL Draft Pick Value Chart,,Dawson Sprigings,2014,NHL Draft,Don't Tell Me About Heart,NHL Draft
+NHL Entry Draft - Drafting Goalies in the Late Rounds,,Dawson Sprigings,2014,NHL Draft,Don't Tell Me About Heart,"Goalies, NHL Draft"
+Using NHL coaching changes to identify historically good and bad coaches,,Benjamin Wendorf,2014,Coaching,Hockey Graphs,"Coaching, Team"
+Re-evaluating Open Corsi,,Josh Weissbock,2014,Measures,The Hockey Writers,"Zone Entries/Exits/Starts, Corsi"
+Shot Location Data and Strategy II: Evaluating Individual Defensive Play,,Matt Cane,2014,Evaluation,Puck++,"Defense, Shot Quality, Skaters"
+Score-Adjusted PDO,,Petbugs,2014,Miscellaneous,Hockey Graphs,"PDO, Team"
+Schedule Adjustment for Counting Stats,,Micah Blake McCurdy,2014,Measures,Hockey Graphs,Corsi / Fenwick
+Adjusting Scoring Rate for Age in CHL Prospects,,Rhys Jessop,2014,Evaluation,That's Offside,NHL Draft
+Remembering Dellow: A few graphs to convince you on Corsi,,Garret Hohl,2014,Measures,Hockey Graphs,Corsi
+The People Pushing the NHL Into the Advanced Stats Era,,Eric Tulsky,2014,Measures,FiveThirtyEight,Zone Entries / Exits / Starts
+The Influence of Face-offs and Zone Starts on Corsi,,Michael Parkatti,2014,Measures,Boys on the Bus,Corsi / Fenwick
+Adjusted Save Percentage: Measuring the Impact Defense has on Goaltending Statistics,,Cam Lawrence,2014,Evaluation,Canucks Army,Goalies
+Adjusting Possession Measures,,Micah Blake McCurdy,2014,Measures,Hockey Graphs,"Corsi, Fenwick"
+Introducing Weighted Shots Differential,,Tom Tango,2014,Evaluation,Tango Tiger,Skaters
+Corsi vs Tango - Do We Need to Adopt Weighted Shot Differential,,Nick Mercadante,2014,Measures,Blueshirt Banter,"Tango, Weighted Shots, Corsi"
+From Winger to Center: How players are affected by moving positions,,Matt Pfeffer,2014,Evaluation,Progressive Hockey,"Skaters, Positions"
+NHL Goaltending - Best Friend or Worst Enemy?,,Dawson Sprigings,2014,Evaluation,Don't Tell Me About Heart,Goalies
+dCorsi - Introductions,,Steve Burtch,2014,Evaluation,NHL Numbers,"Corsi, Fenwick, Skaters"
+How Long Does it Take For a Forward’s Shooting Percentage to Stabilize?,,Dawson Sprigings,2014,Evaluation,Don't Tell Me About Heart,"Shooting Percentage, SH%, Skaters"
+A Hot Goalie Isn't a Better Goalie,,Neil Paine,2014,Evaluation,FiveThirtyEight,Goalies
+What to expect when you're expecting: Does switching NHL head coaches make a difference?,,Benjamin Wendorf,2014,Coaching,Hockey Graphs,"Coaching, Team"
+The Statistical Argument Against Fighting,,Benjamin Wendorf,2014,Fighting,The Hockey News,"Fighting, Skaters"
+The Impact of Winning Faceoffs in Different Zones,,Michael Parkatti,2014,Evaluation,Boys on the Bus,Faceoffs
+Possession Isn't Everything...with the Exception of Defensemen,,Domenic Galamini,2014,Evaluation,Own The Puck,"Defensemen, Skaters"
+Defensemen still have no substantial and sustainable control over save percentage,,Garret Hohl,2014,Evaluation,Hockey Graphs,"Defenders, Skaters"
+"The Road to WAR (for Hockey), Part 1: The Single-Number Dream",,A.C. Thomas,2014,Evaluation,WAR-on-Ice,Skaters
+How Well Do Goalies Age? A look at a goalie aging curve,,Garik16,2014,Evaluation,Hockey Graphs,"Goalies, Marcels, Aging Curve"
+"The Road to WAR (for Hockey), Part 2: All Rate Now",,A.C. Thomas,2014,Evaluation,WAR-on-Ice,Skaters
+"The Road to WAR (for Hockey), Part 3: Shot Quality Assurance, Plus A Bonus on Travel Fatigue",,A.C. Thomas,2014,Evaluation,WAR-on-Ice,Skaters
+"The Road to WAR (for Hockey), Part 4: You Can’t Spell “An Incremental Improvement” without Two Teams",,A.C. Thomas,2014,Evaluation,WAR-on-Ice,Skaters
+"The Road to WAR, Part 9: Historical Shooting and Goaltending",,A.C. Thomas,2014,Evaluation,WAR-on-Ice,"Skaters, WAR"
+"The Road to WAR, Part 8: Penalties Taken and Drawn",,A.C. Thomas,2014,Evaluation,WAR-on-Ice,"Skaters, WAR"
+"The Road to WAR, Part 7: What Do We Mean by ""Replacement""? A Case Study with Faceoffs",,A.C. Thomas,2014,Evaluation,WAR-on-Ice,"Faceoffs, Skaters, WAR"
+"The Road to WAR, Part 11: Shot Rates For And Against, or that quality we deliberately avoid calling ""possession""",,A.C. Thomas,2014,Evaluation,WAR-on-Ice,"Skaters, WAR"
+Forecasting Future Goalie Performance with Four Year Hockey Marcels,,Garik16,2014,Evaluation,Hockey Graphs,"Goalies, Marcels"
+"The Road to WAR, Part 10: Modern Goaltending and Shooting",,A.C. Thomas,2014,Evaluation,WAR-on-Ice,"Skaters, WAR"
+"Assessing The Offensive Productivity Of NHL Players Using In-Game Win Probabilities""",,Stephen Pettigrew,2015,Evaluation,Sloan Sports Conference,"Win Probability, Added Goal Value, Poisson Distribution"
+Shift Start Location Adjustment,,Micah Blake McCurdy,2015,Measures,Hockey Viz,Zone Entries/Exits/Starts
+Ice-time Is Not The Cause of Score Effects,,Micah Blake McCurdy,2015,Measures,Hockey Viz,Corsi / Fenwick
+"Shift Starts and Ends, Part 2",,Micah Blake McCurdy,2015,Measures,Hockey Viz,Corsi / Fenwick
+How can we measure a goalie's rebound control? Examining Pekka Rinne and James Reimer,,Matt Cane,2015,Evaluation,Hockey Graphs,"Goalies, Rebounds"
+Why Teams Should Use 4 Forwards on the Powerplay,,Matt Cane,2015,Measures,Hockey Graphs,Powerplay
+Eventual NHL Success in ECHL Prospects,,Josh Weissbock,2015,Evaluation,Hockey Graphs,NHL Draft
+Price vs. Dubnyk: How NHL GMs overvalue goalies,,Steve Burtch,2015,Evaluation,Sportsnet,"Goalies, HDSV%, High-Danger, Save Percentage"
+Who are NHL coaches playing more with the (big) lead?,,Benjamin Wendorf,2015,Evaluation,Hockey Graphs,"Leading, Skaters, Time on Ice Percentage, TOI%"
+"Increasingly in the NHL, the Best Defense is a Good Offense",,Benjamin Wendorf,2015,Evaluation,Hockey Graphs,"Corsi, Skaters"
+Corsi Plus-Minus: Individual Player Value Accounting for Teammates,,Dawson Sprigings,2015,Measures,Don't Tell Me About Heart,"Corsi, Fenwick"
+"Hurricanes, Preds excel in multi-shot shifts",,Travis Yost,2015,Measures,TSN,"Corsi, Shifts"
+Using Marcels to Forecast Player Performance in Hockey,,Domenic Galamini,2015,Evaluation,Own The Puck,Skaters
+How to Build a Contender - Part 4: The Difficulty of Acquiring Elite Talent,,Cam Lawrence,2015,Evaluation,Canucks Army,"Draft, Free Agency, NHL, Skaters, WAR"
+Canadian Dollar Volatility and the Salary Cap,,Cam Lawrence,2015,NHL Free Agency,Canucks Army,"Free Agency, NHL"
+Distribution of Quality of Competition and Teammates Metrics,,Conor Tompkins,2015,Measures,Hockey Graphs,Quality of Competition / Teammates
+The Limits of Observation,,Kent Wilson,2015,Application,NHL Numbers,"Observation, Eye Test"
+Measuring responses to incentives in the National Hockey League using behavioral modifications,,Michael Lopez,2015,Miscellaneous,Stats By Lopez,"Expected Goals, Game State"
+Predicting Free Agent Salaries,,Matt Cane,2015,NHL Free Agency,Puck++,"Free Agency, NHL"
+Clearing the Defensive Zone: Dangers of Dumping the Puck Out,,Jen Lute Costella,2015,Measures,Jen LC 13,"Zone Exits, Dump Outs, Corsi"
+Back to Basics: Offensive Zone Entries,,Jen Lute Costella,2015,Introduction,Jen LC 13,"Zone Entries, Corsi"
+"Shift Starts and Ends, Part 1",,Micah Blake McCurdy,2015,Measures,Hockey Viz,Corsi / Fenwick
+Goalies are Voodoo...But Improving Comparative Analysis Tools Can Help,,Nick Mercadante,2015,Evaluation,Blueshirt Banter,"Adjusted, Expected, Goalies, Goals Saved, Mercad, xGSAA"
+Shot Generation and Suppression are Mostly Independent,,Micah Blake McCurdy,2015,Measures,Hockey Viz,Corsi / Fenwick
+Injury cascades: Which teams are most at risk to lose more players?,,Steve Burtch,2015,Miscellaneous,Sportsnet,Injuries
+How Did Bucci Do? Revisiting John Buccigross' Alex Ovechkin Goals Projection,,Benjamin Wendorf,2015,Evaluation,Hockey Graphs,"Goals, Projection"
+"Another shot quality quandary: League variance, evolution, error",,Benjamin Wendorf,2015,Evaluation,Hockey Graphs,"Shot Quality, Skaters"
+Rate Metrics Matter,,Conor Tompkins,2015,Evaluation,Hockey Graphs,"Metrics, Rate, Skaters"
+Update: Usage Adjusted Possession Numbers,,Domenic Galamini,2015,Measures,Own The Puck,"Corsi, Fenwick, Skaters"
+Prospect Cohort Success - Evaluation of Results,,Cam Lawrence,2015,NHL Draft,Hockey Graphs,"Draft, NHL, Prospects"
+Clustering NHL Forwards (using k-means),,Dawson Sprigings,2015,Evaluation,Don't Tell Me About Heart,Skaters
+xSV% - Save Percentage Accounting for Shot Quality,,Dawson Sprigings,2015,Evaluation,Don't Tell Me About Heart,Goalies
+Predicting Future NHL Scoring Success with NHLe Thesholds and Related Factors,,Byron Bader,2015,Evaluation,NHL Numbers,"NHL Draft, Prospects, Projections"
+Trading Off: How much possession can my team surrender and still win?,,Benjamin Wendorf,2015,Evaluation,Hockey Graphs,"Corsi, Team"
+Hockey Refs Are Out to Get You (If They Already Got The Other Guy),,Noah Davis,2015,Measures,Five Thirty Eight,Penalties
+Why Possession and Zone Entries Matter: Two Quick Charts,,Benjamin Wendorf,2015,Measures,Hockey Graphs,"Skaters, Zone Entries"
+Updated xSV% - Save Percentage Accounting for Shot Quality,,Dawson Sprigings,2015,Evaluation,Don't Tell Me About Heart,Goalies
+How to Build a Contender - Part 3: Cap Management,,Cam Lawrence,2015,Evaluation,Canucks Army,"Free Agency, NHL, Skaters, WAR"
+How Hard is it to Find Good NHL Goaltending?,,Nick Emptage,2015,Evaluation,Hockey Graphs,Goalies
+Maximizing Predictive Ability by Regressing On-ice Percentages (at the Player Level),,Domenic Galamini,2015,Evaluation,Own The Puck,Skaters
+How to Build a Contender - Part 2: The Impact of Aging,,Cam Lawrence,2015,Evaluation,Canucks Army,"Aging Curves, Skaters, WAR"
+Exploring the Impact of New NHL Coaches and GMs,,Carolyn Wilke,2015,Coaching,Hockey Graphs,"Coaching, General Management, Team"
+"How to Build a Contender - Part 1: WAR, What is it Good For?",,Cam Lawrence,2015,Evaluation,Canucks Army,"Skaters, WAR"
+Big Deals for Big Hitters: How Physical Players Age,,Cam Lawrence,2015,Evaluation,Hockey Graphs,"Aging Curves, Skaters"
+Prediction Model Oscar,,Micah Blake McCurdy,2015,Models,Hockey Viz,"Prediction, Team"
+A Deep Look Into Advanced Shootout Statistics,,Steve Ness,2015,Evaluation,Business of Hockey,Shootout
+Estimating the Monetary Value of a Draft Pick,,Matt Cane,2015,Measures,Puck++,NHL Draft
+"How much do zone starts matter part II: A lot on their own, not that much in aggregate",,Matt Cane,2015,Measures,Puck++,"Skaters, Zone Starts"
+Draft Analytics: Unveiling the Prospect Cohort Success Model,,Josh Weissbock,2015,Evaluation,Jets Nation,NHL Draft
+Predicting Save Percentage: Danger Zones and Shot Volumes,,Matt Cane,2015,Evaluation,Puck++,"Goalies, Save Percentage, Shot Quality, SV%"
+Reasons Behind the Failure to Accurately Evaluate NHL Defensemen,,Domenic Galamini,2015,Evaluation,Own The Puck,"Defensemen, Skaters"
+How much do zone starts matter part I: (Maybe) not as much as we thought,,Matt Cane,2015,Measures,Puck++,"Skaters, Zone Starts"
+"Expected Goals are a Better Predictor of Future Scoring than Corsi, Goals",,Dawson Sprigings,2015,Measures,Hockey Graphs,"Expected Goals, Shot Quality"
+NHL Expected Goals Model,,Dawson Sprigings,2015,Measures,Don't Tell Me About Heart,"Expected Goals, Shot Quality"
+xSV% is a Better Predictor of Goaltending Performance than Existing Models,,Dawson Sprigings,2015,Evaluation,Hockey Graphs,"Expected, Goalies, Save Percentage, xSV%"
+Why Some Older Players Decline and Some Don’t,,Dawson Sprigings,2015,Evaluation,Don't Tell Me About Heart,"Aging Curves, Skaters"
+Updated NHL Expected Goals Model,,Dawson Sprigings,2015,Measures,Don't Tell Me About Heart,"Expected Goals, Shot Quality"
+Using Cluster Analysis to Identify Player Position,,Conor Tompkins,2015,Evaluation,Hockey Graphs,"Cluster Analysis, Skaters"
+"Two years of research, 1230 games watched: Why neutral zone play is much more important than you think",,Dom Luszczyszyn,2015,Measures,The Hockey News,Zone Entries/Exits/Starts
+Sunday is a day for relaxing. Just ask the NHL,,Michael Lopez,2015,Miscellaneous,Stats By Lopez,"Sunday, Scoring"
+Draft Theory: On Risk and Reward,,Cam Lawrence,2015,NHL Draft,Canucks Army,"Draft, NHL, Prospects"
+"Sbisa, the Sens, and the Scramble: Evaluating Defensive Play Following a Shot Attempt",,Matt Cane,2015,Evaluation,Hockey Graphs,Defenders
+Expected Goals Just Don't Add Up - They Also Multiply,,Danny Page,2015,Measures,Medium,"Expected Goals, Shot Quality"
+"Analytics, not statistics, driving NHL evolution",,Arik Parnass,2015,Introduction,NHL.com,Analytics
+Has the NHL's New Faceoff Rule Increased Goal Scoring?,,Arik Parnass,2015,Evaluation,Hockey Graphs,"Faceoffs, Scoring"
+Predicting the Playoffs with Puck Possession,,Travis Yost,2015,Evaluation,TSN,"Playoffs, Prediction"
+Establishing AHL Baselines For Prospect Success,,Josh Weissbock,2015,Evaluation,Canucks Army,"Defensemen, Prospects, AHL, Scoring, Aging Curves"
+"Rebounds, Extended Zone Time, and the Quest for More Offense",,Adam Stringham,2015,Evaluation,Hockey Graphs,"Shots, Team, Zone Time"
+"The Road to WAR (for Hockey), Part 5: Getting Goals Above Baseline",,A.C. Thomas,2015,Evaluation,WAR-on-Ice,Skaters
+Back-to-backs and goalie performance,,A.C. Thomas,2015,Evaluation,WAR-on-Ice,"Back-to-Back, Goalies"
+Generating Offense and Shots Per Entry,,Alex Novet,2015,Measures,Fancy Stats Island,Zone Entries/Exits/Starts
+Analyzing the Value of NHL Draft Picks,,Steve Burtch,2015,Evaluation,Sportsnet,"NHL Draft, Prospects, Draft Pick Value"
+Penalty Killing Metrics and Pitfalls in Evaluating Success,,Jen Lute Costella,2015,Measures,Jen LC 13,Penalty Kill
+"Draft By Numbers - Using Data and Analytics to Improve
+National Hockey League (NHL) Player Selection",,Michael Schuckers,2016,Evaluation,Sloan Sports Conference,"NHL Draft, GAM, Poisson"
+Means and Factors,,Mike Fail,2016,Introduction,Imgur,"Inputs, Outputs"
+Assessing the Impact of Deployment on Individual Shorthanded Shot Suppression,,Prashanth Iyer,2016,Measures,Winging It In Motown,"Penalty Kill, Shorthanded"
+Exploring the distributions of shot rates,,Arvind Shrivats,2016,Measures,Pension Plan Puppets,"Shots, Distribution"
+What can we learn by examining the distribution of scoring,,Arvind Shrivats,2016,Measures,Pension Plan Puppets,"Scoring, Distribution"
+Can Players Maintain or Increase Their Performance with an Increased Role?,,Steve Ness,2016,Evaluation,Business of Hockey,"Corsi / Fenwick, Roles, Shots"
+Drafting Incentives,,Micah Blake McCurdy,2016,Evaluation,Hockey Viz,NHL Draft
+Composite Tailored Regression Modeling for Evaluative Ratings in Professional Hockey,,Emmanuel Perry,2016,Evaluation,Corsica,Skaters
+1-2-3 Let's Have Fun: Getting Started With Hockey Analytics,,Madeupcall,2016,Introduction,Corsica,"Corsi, Possession, Primers, R, Regression, Score Effects"
+Bootstrapping QoT/QoC and the Sedin Paradox,,Emmanuel Perry,2016,Measures,Corsica,Quality of Competition / Teammates
+Quantifying the Importance of Handedness,,Domenic Galamini,2016,Evaluation,Hockey Graphs,"Defensemen, Skaters"
+Diamongs in the Rough: Finding Elite Talent Late,,Byron Bader,2016,Evaluation,Oilers Nation,"NHL Draft, Prospects, NHLe"
+Passing Project: Dangerous Shot Contributions,,Loserpoints,2016,Measures,Hockey Graphs,Shot Quality
+Adjustments Explained,,Emmanuel Perry,2016,Measures,Corsica,"Corsi / Fenwick, Shots"
+Are Quality Starts a Repeatable Skill?,,Draglikepull,2016,Evaluation,NHL Numbers,Goalies
+Draft pick valuation and the likelihood of goaltenders making the NHL,,Steve Burtch,2016,Evaluation,NHL Numbers,"Goalies, NHL Draft"
+Delta Box Score: a Model for Predicting Player Scoring Independent of Teammate Quality,,Dawson Sprigings,2016,Evaluation,Hockey Graphs,Skaters
+Does aggressive play on the penalty kill pay off?,,Matt Cane,2016,Measures,Hockey Graphs,"Penalty Kill, Shorthanded, Special Teams"
+Why Deterrents Are Irrelevant,,Ryan Stimson,2016,Measures,Hockey-Graphs,"Hits, Deterrent"
+Which OHLers have the best shot at being NHL snipers?,,Steve Burtch,2016,Evaluation,Sportsnet,NHL Draft
+Can defensemen control rebound opportunities? Putting the eye test to the test,,Petbugs,2016,Evaluation,Hockey Graphs,"Defenders, Skaters"
+WoodMoney: A new way to figure out quality of competition in order to analyze NHL data,,Darcy McLeod,2016,Measures,Because Oilers,Quality of Competition
+Introducing DEV,,Zac Urback,2016,Evaluation,Prospect-Stats,"Prospects, DEV"
+Digging Into Coaching Numbers,,Conor Tompkins,2016,Coaching,Hockey Graphs,
+"Shot Quality and Save Percentage Revisited, Again…",,Garret Hohl,2016,Measures,Hockey Graphs,Shot Quality
+CrowdScout Score and Salary - A Study in Market Value,,Cole Anderson,2016,Evaluation,Crowd Scout Sports,"Free Agency, NHL"
+Which historical statistics best predict future scoring rates?,,Travis Yost,2016,Evaluation,TSN,"Projection, Scoring"
+"How much is the ""best fourth line in hockey"" worth?",,Garret Hohl,2016,Evaluation,Hockey Graphs,Skaters
+Tactalytics: Using Data to Inform Tactical Neutral Zone Decisions,,Ryan Stimson,2016,Measures,Hockey Graphs,Zone Entries / Exits / Starts
+Testing and Final Remarks,,Dawson Sprigings,2016,Evaluation,Hockey Graphs,Skaters
+AdjGSAxGA/60 - A(nother) Different Look at Goaltending,,Ian Fleming,2016,Evaluation,NHL Numbers,"Adjusted, Goalies, Goals Saved"
+Re-Tooling the Rebuild - An Auction Based Entry Draft System,,Cole Anderson,2016,MIscellaneous,Crowd Scout Sports,NHL Draft
+Redefining Shot Quality: One Pass at a Time,,Ryan Stimson,2016,Measures,Hockey Graphs,Shot Quality
+Predicting Shot Differentials for NCAA Players,,Ryan Stimson,2016,Evaluation,Hockey Graphs,"Corsi / Fenwick, NHL Draft"
+Estimating Shooting Talent,,Harry Shomer,2016,Evaluation,Fooled By Grittiness,"Shooting Talent, Skaters"
+A Guide to Neutral Zone Tracking Part 1 of 2: Why Neutral Zone Statistics Matter,,Garik16,2016,Measures,Hockey Graphs,Zone Entries / Exits / Starts
+Prediction Model Cordelia,,Micah Blake McCurdy,2016,Models,Hockey Viz,"Prediction, Team"
+Leverage,,Micah Blake McCurdy,2016,Evaluation,Hockey Viz,"Pressure, Team"
+Marcel Projections for Goalies,,Harry Shomer,2016,Evaluation,Fooled By Grittiness,Goalies
+Tactalytics: Using Data to Inform Tactical Offensive Zone Decisions,,Ryan Stimson,2016,Strategy,Hockey Graphs,"Team, Zone Entries / Zone Exits / Starts"
+Crucial Habits for Good Shot Generation and Suppression: Overview,,Jen Lute Costella,2016,Measures,Jen LC 13,Corsi
+Relationship of Possession to Shots-For,,Benjamin Wendorf,2016,Measures,Hockey Graphs,Corsi / Fenwick
+Hockey and Euclid: Calculating Statistical Similarity Between Players,,Emmanuel Perry,2016,Evaluation,Corsica,Skaters
+Why the “Scoring Chance” is a Flawed Metric and How We Can Improve It,,Loserpoints,2016,Measures,Oilers Nation,Shot Quality
+Hockey and Euclid: Predicting AAV With K-Nearest Neighbors,,Emmanuel Perry,2016,NHL Free Agency,Corsica,"Free Agency, NHL"
+SEAL-Adjusted Scoring and why it matters for prospects,,Garret Hohl,2016,Evaluation,Hockey Graphs,NHL Draft
+Shot Quality and Expected Goals - Part 1.5,,Emmanuel Perry,2016,Measures,Corsica,"Expected Goals, Shot Quality"
+A Primer on @DTMAboutHeart’s WAR Model,,Dawson Sprigings,2016,Evaluation,Hockey Graphs,Skaters
+Introducing Box Plus-Minus,,Dawson Sprigings,2016,Evaluation,Hockey Graphs,Skaters
+"Putting it all together: A hockey systems, stats, tools, and talent evaluation primer",,Dave Shapiro,2016,Introduction,Blue Seat Blogs,"Corsi, Scoring Chances, Usage, Deployment"
+NHL Draft Probability Tool,,Dawson Sprigings,2016,Evaluation,Hockey Graphs,NHL Draft
+The Path to WAR,,Cole Anderson,2016,Evaluation,Crowd Scout Sports,Skaters
+"Matt Hunwick, Martin Marincin and Quality of Competition",,Dom Luszczyszyn,2016,Measures,Hockey Graphs,Quality of Competition / Teammates
+How good is Columbus? A Bayesian approach,,Muneeb Alam,2016,Models,Hockey Graphs,"Bayesian, Blue Jackets, Columbus, NHL, Team"
+Regressing Sv% by Danger Zone,,Harry Shomer,2016,Measures,Fooled By Grittiness,Goalies
+Measuring Single Game Productivity: An Introduction to Game Score,,Dom Luszczyszyn,2016,Evaluation,Hockey Graphs,"Game Score, Skaters"
+Crucial Habits: Shot Generation and Game Flow,,Jen Lute Costella,2016,Measures,Jen LC 13,"Corsi / Fenwick, Game Flow, Pace, Shots"
+Team effects and Sv%,,Harry Shomer,2016,Evaluation,Fooled By Grittiness,Goalies
+Can Goaltenders Have An Effect On Possession Statistics?,,Steve Ness,2016,Evaluation,Business of Hockey,"Goalies, Possession, Corsi"
+Should we incorporate misses into our evaluation of goalies?,,Harry Shomer,2016,Evaluation,Fooled By Grittiness,Goalies
+Crucial Habits: Shot Generation and the Neutral Zone,,Jen Lute Costella,2016,Measures,Jen LC 13,"Corsi / Fenwick, Neutral Zone, Shots"
+Goalie Aging Curve,,Harry Shomer,2016,Evaluation,Fooled By Grittiness,"Aging Curves, Goalies"
+Crucial Habits: Shot Generation and Puck Recovery,,Jen Lute Costella,2016,Measures,Jen LC 13,"Corsi / Fenwick, Puck Recovery"
+How does performance as of Dec. 1 relate to making the playoffs?,,Petbugs,2016,Miscellaneous,Hockey Graphs,"Playoffs, Team"
+Creating Player Ratings Using Swarm Intelligence Algorithms,,Emmanuel Perry,2016,Evaluation,Corsica,Skaters
+Zone Time and Goals,,Jen Lute Costella,2016,Measures,Jen LC 13,"Corsi / Fenwick, Goals, Zone Time"
+The Distribution of QoC/QoT at the NCAA Level,,Ryan Stimson,2016,Measures,Hockey Graphs,Quality of Competition / Teammates
+Do Past SV% Variables Predict Future Sv% Variables?,,Matt Cane,2016,Evaluation,Hockey Graphs,"Goalies, Save Percentage"
+Apply CUSUM to Hockey Prediction Models,,Petbugs,2016,Miscellaneous,Hockey Graphs,
+Introducing Expected Plus-Minus,,Dawson Sprigings,2016,Evaluation,Hockey Graphs,Skaters
+Crucial Habits: Shot Generation and Controlled Zone Exits,,Jen Lute Costella,2016,Measures,Jen LC 13,"Corsi / Fenwick, Zone Exits"
+"Extras, Blending, and Seasonal Adjustment",,Dawson Sprigings,2016,Evaluation,Hockey Graphs,Skaters
+Shot Quality and Expected Goals - Part 1,,Emmanuel Perry,2016,Measures,Corsica,"Expected Goals, Shot Quality"
+Predicting Which Players Will Succeed on the Powerplay,,Matt Cane,2016,Measures,Hockey Graphs,Powerplay
+Weighted Shot Rates Based on the Passing Project,,Loserpoints,2016,Measures,Hockey Graphs,Shot Quality
+To Secondary Assist or not to Secondary Assist,,Harry Shomer,2016,Measures,Fooled By Grittiness,"Assists, Secondary, Skaters"
+A Guide to Neutral Zone Tracking Part 2 of 2: How to Track the Neutral Zone,,Garik16,2016,Measures,Hockey Graphs,Zone Entries / Exits / Starts
+Expected Standings Points,,Micah Blake McCurdy,2016,Models,Hockey Viz,"Points, Team"
+"Just How Important is Quality of Competition? Very. Also, Not Much. It’s All Relative",,Ryan Stimson,2016,Measures,Hockey Graphs,Quality of Competition / Teammates
+The Return of Draft Analytics: The Prospect Graduation Probabilities System (pGPS),,Jeremy Davis,2016,Evaluation,Canucks Army,NHL Draft
+Should you ever draft a goalie?,,Matt Cane,2016,Evaluation,Puck++,NHL Draft
+Repeatability Of Skater VSM (Sant.Score),,Web Sant,2016,Measures,Hockey Simplified,"Prediction, Repeatibility, Skaters"
+eGF Finally Fully Explained,,Nick Abe,2016,Measures,XtraHockeyStats,"Expected Goals, Shot Quality"
+Predicting Year-to-Year Power Play Success,,Arik Parnass,2016,Measures,Special Teams Project,Powerplay
+Entry Generation and Suppression,,Alex Novet,2016,Measures,Hockey Graphs,Zone Entries / Exits / Starts
+Breaking Down Existing Power Play Data By Shot Type,,Arik Parnass,2016,Measures,Special Teams Project,Powerplay
+Are Neutral Zone Regroups Beneficial to Power Play Units?,,Arik Parnass,2016,Measures,Special Teams Project,Powerplay
+How Do Rebound Shots Impact Shooting Percentages?,,Arik Parnass,2016,Measures,Special Teams Project,Powerplay
+Which Specific Zone Entry Types are Most Successful?,,Arik Parnass,2016,Measures,Special Teams Project,Powerplay
+Descriptive vs Predictive eGF vs Corsi for Forwards,,Nick Abe,2016,Measures,XtraHockeyStats,"Expected Goals, Shot Quality"
+ELO Ratings for the NHL,,Alan Ryder,2016,Miscellaneous,Hockey Analytics,
+Using Marcel Projections for Goalies in the 2016-17 Season,,Harry Shomer,2016,Evaluation,NHL Numbers,"Goalies, Marcels"
+ZEFR Rate: A New and Better Way to Evaluate Power Plays,,Arik Parnass,2016,Measures,Hockey Graphs,Powerplay
+How Can We Quantify Power Play Performance in Formation?,,Arik Parnass,2016,Measures,Hockey Graphs,Powerplay
+Special Teams Spotlight: The Optimal 6-on-4 Formation,,Arik Parnass,2016,Measures,Special Teams Project,Powerplay
+Can We Accurately Predict Which PK Units Will Score Shorthanded?,,Arik Parnass,2016,Measures,Hockey Graphs,"Penalty Kill, Shorthanded"
+Neutral Zone Playing Styles,,Alex Novet,2016,Measures,Hockey Graphs,Zone Entries / Exits / Starts
+How To Value Draft Picks vs. Active Players,,Mike Zsolt,2016,Evaluation,Original Six Analytics,"Expected Points, Draft Analysis, Draft Picks"
+Special Teams Analytics in the 21st Century,,Arik Parnass,2016,Measures,Hockey Graphs,Powerplay
+Statistically Analyzing Hockey’s One-Timer,,Arik Parnass,2016,Measures,Special Teams Project,Powerplay
+Is Dumping the Puck Damaging on the Power Play?,,Arik Parnass,2016,Measures,Special Teams Project,Powerplay
+When To Be Aggressive and When To Be Cautious At NHL Trade Deadline,,Steve Burtch,2016,Evaluation,Sportsnet,"Draft Picks, Goals Above Replacement, Trade Deadline"
+How Important is Playing the Off-Wing on the Power Play?,,Arik Parnass,2016,Measures,Special Teams Project,Powerplay
+Are Power Play Drop Pass Entries Effective?,,Arik Parnass,2016,Measures,Special Teams Project,Powerplay
+Text Mining of Scouting Reports for Improving NHL Draft Analytics,,"Timo Seppa, Michael Schuckers, Mike Rovito",2017,Evaluation,Stat Sports Consulting,"Prospects, Scouting, Scouting Reports, Text Mining"
+Adjusting Historical Player Performance Using Talent Distribution Part 1,,Jake Flancer,2017,Evaluation,Three Point Games,"Lorenz Curve, Gini Coefficient, Era, Hall of Fame"
+What Does It Mean To Draft Perfectly? An Evaluation of Draft Strategy In The National Hockey League,,Namita Nandakumar,2017,Evaluation,University of Pennsylvania,"NHL Draft, Prospects, Draft Efficiency, Draft Value"
+How much support does a good breakout need?,,Ryan Stimson,2017,Measures,All About the Jersey,Breakouts
+An Aggressive Forecheck is Best,,Ryan Stimson,2017,Measures,All About the Jersey,Forecheck
+Devils Skaters’ Performance in All Three Zone Data,,CJ Turtoro,2017,Evaluation,All About the Jersey,"All Three Zones, Projects, Skaters, Zone Entries, Zone Exits"
+Evaluating Defensive Ability in Hockey Using Passing Data,,Ryan Stimson,2017,Evaluation,Sloan Sports Conference,"Passing, Skaters"
+How Often Does The Best Team Win? A Unified Approach to Understanding Randomness in North American Sport,,Michael Lopez,2017,Evaluation,ArXiv,"Models, Winning, Best Team"
+Is Your Favourite Team Coached by a 'Line Juggler'?,,Tyler Dellow,2017,Evaluation,The Athletic ($),"Coaching, Line Juggling"
+Is Sam Morin Taking Too Long? An Analysis of NHL Prospect Timelines,,Namita Nandakumar,2017,Evaluation,The Athletic ($),"Prospects, Survival Curves"
+What Goes Into A Successful Shootout Attempt,,Steve Ness,2017,Evaluation,Business of Hockey,Shootout
+Should teams play with 4 forwards when they're down late?,,Matt Cane,2017,Strategy,Hockey Graphs,"Skaters, Trailing"
+Measuring the Importance of Structure on the Powerplay,,Matt Cane,2017,Measures,Hockey Graphs,Powerplay
+"Update on the Hockey Hall of Fame model and predictions - The Hockey Hall of Fame in 2018, 2019, and beyond",,RDJ,2017,Evaluation,Github,"Hall of Fame, Model"
+Redefining Defensemen Based on Transitional Play,,Ryan Stimson,2017,Evaluation,Hockey Graphs,Skaters
+Protecting the Blue Line and Driving Break-outs: Repeatability and Impact of Exits and Entries Against,,Org Six Analytics,2017,Measures,Original Six Analytics,Zone Entries / Exits / Starts
+The 25 Greatest Goalies of Women's Hockey History,,Giants in the Crease,2017,Women's Hockey,Crease Giants,Women's Hockey
+Exploiting Variance in the NHL Draft,,Namita Nandakumar,2017,Evaluation,Hockey Graphs,NHL Draft
+"Expected Goals (xG), Uncertainty, and Bayesian Goalies",,Cole Anderson,2017,Evaluation,Crowd Scout Sports,Goalies
+Introducing Weighted Points Above Replacement - Part 2,,Evolving Wild,2017,Evaluation,Hockey Graphs,Weighted Points
+A Few Stuff about Miss%,,Harry Shomer,2017,Measures,Fooled By Grittiness,"Goalies, Missed Shot Percentage"
+Women's World's Championship Data - Last 16 Years,,Giants in the Crease,2017,Women's Hockey,Google Docs,"Women's Hockey, World Championship"
+A New Look at Aging Curves for NHL Skaters (part 2),,Evolving Wild,2017,Evaluation,Hockey Graphs,"Aging Curves, WAR"
+Introducing Weighted Points Above Replacement - Part 1,,Evolving Wild,2017,Evaluation,Hockey Graphs,"PAR, Points Above Replacement, Skaters, Weighting"
+2016-2017 NHL Translation Factors,,Rob Vollman,2017,Evaluation,Hockey Abstract,NHL Draft
+Probabilistic Forecasting and Weighting of Three Star Selections,,Emmanuel Perry,2017,Evaluation,Corsica,Skaters
+Aiming for generalization with Hockey Hall of Fame models - on complexity and overfit in hockey models,,RDJ,2017,Discussion,Github,"Overfit, Variance, Bias"
+Second Units and Zone Entries: Why Teams Should Go All-In on the 4 Forward Powerplay,,Matt Cane,2017,Measures,Hockey Graphs,Powerplay
+Stop Worrying About Shot Parity,,Shawn Ferris,2017,Measures,Hockey Graphs,"Corsi / Fenwick, Shots"
+Behind The Numbers - What Makes A Stat Good?,,Garret Hohl,2017,Evaluation,Hockey-Graphs,"Stats, Evaluation, Correlation,"
+Identifying Team Playing Styles with Clustering,,Ryan Stimson,2017,Strategy,Hockey Graphs,"Playing Styles, Team"
+"Expected Primary Points are a better predictor of future scoring than Shots, Points",,Ryan Stimson,2017,Evaluation,Hockey Graphs,Skaters
+"Mikael Granlund, Playing Behind the Net, and Predicting Goals",,Ryan Stimson,2017,Evaluation,Hockey Graphs,Skaters
+"Predicting the Hockey Hall of Fame - Who got in, who shouldn't have, who will, and why",,RDJ,2017,Evaluation,Github,"Hall of Fame, Model"
+"Hockey Analytics, Strategy, & Game Theory",,Cole Anderson,2017,Evaluation,Crowd Scout Sports,
+Standardized Goals Against,,Micah Blake McCurdy,2017,Evaluation,Hockey Viz,Goalies
+Primary Points NWHL 2015-2016 Season,,Mike Murphy,2017,Women's Hockey,Google Docs,NWHL
+The Art of WAR,,Emmanuel Perry,2017,Evaluation,Corsica,"Skaters, WAR"
+A New Look at Aging Curves for NHL Skaters (part 1),,Evolving Wild,2017,Evaluation,Hockey Graphs,"Aging Curves, WAR"
+Identifying Playing Styles with Clustering,,Ryan Stimson,2017,Evaluation,Hockey Graphs,"Playing Styles, Skaters"
+Who’s Getting Drafted This Year?,,Namita Nandakumar,2017,NHL Draft,Hockey Graphs,
+"Behind the Numbers: The Issues with Binning, QoC, and Scoring Chances",,Garret Hohl,2017,Measures,Hockey Graphs,Quality of Competition / Teammatess
+About That Flyers' Challenge Last Night,,Matt Cane,2017,Evaluation,Hockey-Graphs,"Challenge, Offsides, Coaching"
+Inside the numbers: How the NWHL and CWHL do stats differently,,Mike Murphy,2017,Women's Hockey,FanRag Sports,"CWHL, NWHL, Women's Hockey"
+Rink Bias for SOG and Misses,,Harry Shomer,2017,Measures,Fooled by Grittiness,"Corsi / Fenwick, Shots"
+By the Numbers: Can New Leafs' Defenceman Ron Hainsey Handle Tough Minutes?,,Dom Luszczyszyn,2017,Measures,The Athletic,Quality of Competition / Teammates
+Prediction Model - Edgar,,Micah Blake McCurdy,2017,Evaluation,Hockeyviz,"Analytics, Models"
+Position Value and Wage Determinants,,Jeremy Davis,2017,Evaluation,Canucks Army,Prospects
+Measuring the Importance of Individual Player Zone Entry Creation,,Charlie O'Connor,2017,Evaluation,Hockey-Graphs,Zone Entries
+A Beginner's Guide to Goaltender Advanced Stats,,Drew Way,2017,Introduction,Blueshirts Breakaway,"Goalies, Goaltender, GSAA, goals saved above average, dSv%, adjusted save percentage, delta save percentage, shot quality"
+On Salad And Predicting Hockey Games,,Emmanuel Perry,2017,Evaluation,Corsica,"Analytics, Models"
+Estimating Shot Assist Quantities for Skaters,,Loserpoints,2017,Evaluation,Hockey-Graphs,"Passing, Shot Quality, Skaters"
+NHL Expected Goals Model,,Matthew Barlowe,2017,Evaluation,RStudio,"Expected Goals, Logistic Regression"
+Who You Calling Weak? Draft Class Variance,,Alex Novet,2017,NHL Draft,Hockey Graphs,
+Rebound Control,,Cole Anderson,2017,Evaluation,Crowd Scout Sports,"Goalies, Probability, Rebounds"
+There's No Secret to Protecting a Lead,,Alex Novet,2017,Strategy,Hockey Graphs,"Lead Protection, Team"
+Strong and Weak Links: Talent Distribution within Teams,,Alex Novet,2017,Management,Hockey Graphs,"Construction, Roster, Team"
+Draft Expected Value,,Hayden Speak,2017,Evaluation,Prospect-Stats,"Predicting Draft Success, Prospects, NHL Draft"
+The Evaluation Of Pace Of Play In Hockey,,"Rajitha Silva, Jack Davis, Tim Swartz",2018,Evaluation,Journal of Sports Analytics,Pace
+Introducing The Definitive Hart Trophy Score - The Wyshynski Score,,Jake Flancer,2018,Evaluation,Three Point Games,"Hart Trophy, MVP"
+Who Plays Where? Determing Skater Positions Through Clustering,,Jake Flancer,2018,Evaluation,Three Point Games,"Clusters, Positions"
+Can We Predict NHL Success From World Juniors Performance?,,Jake Flancer,2018,Evaluation,Three Point Games,"Prospects, World Juniors, NHL"
+Adjusting Historical Player Performance Using Talent Distribution Part 3,,Jake Flancer,2018,Evaluation,Three Point Games,"Lorenz Curve, Gini Coefficient, Era, Hall of Fame"
+Adjusting Historical Player Performance Using Talent Distribution Part 2,,Jake Flancer,2018,Evaluation,Three Point Games,"Lorenz Curve, Gini Coefficient, Era, Hall of Fame"
+Measuring Consistency,,Jake Flancer,2018,Evaluation,Three Point Games,"Consistency, Game Score"
+The NHL Has An Officiating Problem,,Rex Libris,2018,Evaluation,The Sports Daily,"Refs, Penalties, Referees, Rate of Call"
+What is an NHL win worth?,,Kyle Gipe,2018,Measures,The Hockey Writers,"Goals, Wins, Value"
+Why Quality of Competition Doesn't Matter To Analytics Experts Anymore,,Daniel Wagner,2018,Discussion,Vancouver Courier,"QoC, QoT, Roles"
+Can You Cluster NHL Players On Shots?,,Em,2018,Evaluation,Netlify,"R, Shots, K Means, Shot Type"
+Comparing Scoring Talent with Empirical Bayes,,Domenic Galamini,2018,Measures,Hockey-Graphs,"Bayesian, Scoring, Talent"
+Improving Public Counting Stats By Combining Them,,Chace McCallum,2018,Measures,Hockey and Stuff,"BPM, Box Score, Counting Stats"
+Goals Above Replacement,,Chace McCallum,2018,Measures,Hockey and Stuff,"WAR, GAR"
+Optimal Contracts Using Wins Above Replacement,,Eric Thiel,2018,Measures,"Economics, Hockey, Stats","WAR, Contracts, Value"
+Should the Bruins break with tradition and start resting players?,,Shawn Ferris,2018,Evaluation,Stanley Cup of Chowder,"Injuries, Rest, Resting Players"
+High Danger Scoring Chances - An Analysis of the Devilish Statistic,,CJ Turtoro,2018,Evaluation,All About the Jersey,"Corsi, Goals, High Danger Scoring Chances, Shot Quality"
+Pulling the Goalie: Hockey and Investment Implications,,Clifford Asness,2018,Evaluation,,"Goalies, Pulling the Goalie"
+Forecasting NHL Hat Tricks,,Sam Forstner,2018,Measures,Dartmouth,"Poisson, Hat Tricks"
+Forecasting Real-Time Win Probabilities In NHL Games,,Christophe Bernier,2018,Evaluation,Boston College,"Win Probability, Shootouts, Betting, Odds"
+"Time Perception Machine: Temporal Point Processes for the When, Where, and What of Activity Prediction",,Yatao Zhong,2018,Evaluation,arxiv.org,"Temporal Point Process, Activity Prediction, Time Perception Machine"
+"Model Trees for Identifying Exceptional Players in
+the NHL Draft",,Oliver Schulte,2018,Evaluation,Arxiv,"Draft, Model Trees, Prospects"
+When Do Defensemen Make It?,,Tyler Dellow,2018,Evaluation,The Athletic ($),"Aging Curves, Corsi / Fenwick, Defenders"
+Sam Bennett: A Bayesian Analysis,,Ganesh Murdeshwar,2018,Evaluation,The Athletic ($),"Bayesian Statistics, Estimating Scoring Ability"
+How The WAR Statistic Can Be Useful In Hockey And What It Says About The Rangers,,Shayna Goldman,2018,Overview,The Athletic,"WAR, Wins Above Replacement"
+Advanced Stats Primer Part 2 - Why Does Passing Matter?,,Ryan Stimson,2018,Introduction,The Athletic,"Relative Corsi, WOWY, WAR, RelTm"
+An Advanced Stats Primer with NaturalStatTrick's Brad Timmins,,Ryan Stimson,2018,Introduction,The Athletic,"Corsi, xG, Expected Goals, Primer"
+Linking Penalties and Game Minute in the NHL,,Ingrid Rolland,2018,Evaluation,Hockey-Graphs,Penalties
+Wins Above Replacement,,Emmanuel Perry,2018,Evaluation,Corsica,"WAR, LASSO, Regularized Regression"
+Should Teams Pull Their Goalie On The Powerplay?,,Matt Cane,2018,Evaluation,Hockey-Graphs,"Goalies, Pulling the Goalie, Powerplay"
+Prospect Expected Goals,,Hayden Speak,2018,Evaluation,Prospect-Stats,"Expected Goals, Prospects, OHL, QMJHL"
+Explaining Playoff Goaltending,,Cole Anderson,2018,Evaluation,Crowd Scout Sports,"Playoffs, Goalies"
+Playoff Goaltending,,Cole Anderson,2018,Evaluation,Crowd Scout Sports,"Playoffs, Goalies"
+Gradient Ascent and Goal Scoring,,Cole Anderson,2018,Evaluation,Crowd Scout Sports,"Gradient Descent, Goal Probability"
+Diving Into How Goalies Fit Into NHL Cap Structure,,Carey Haber,2018,Evaluation,The Cap Space,"Goalies, Salary Cap, Cap Hit, GSAA"
+Using Network Analysis to Estimate Teammate Influence in Hockey Scoring,,Evan Oppenheimer,2018,Measures,Medium,"Betweeness, Scoring, Draft"
+How Did The Absence of National Team Players Impact The NWHL's Landscape of Talent,,Alyssa Longmuir,2018,Evaluation,Pension Plan Puppets,"NWHL, Women's Hockey, Game Score"
+How Much Do NHL Players Really Make?,,Shayna Goldman,2018,Miscellaneous,Hockey-Graphs,"Escrow, CBA, Salary"
+Exploring Potential Biases in Prospect Rankings,,Jeremie Spagnolo,2018,Evaluation,Maple Leafs Nation,"Bias, Prospects"
+Boston University PP Passes and Shots Versus The PK,,Judy Cohen,2018,Evaluation,Judy Puck,"Passing, Special Teams, Penalty Kill"
+Individual Powerplay Units in 17-18,,Meghan Hall,2018,Evaluation,Balls And Sticks,"Powerplay, Structure, Efficiency"
+How Good Is Frederik Andersen And How Much Better Can He Get?,,Raajan Aery,2018,Measures,Sportsnet,"dSV%, delta save percentage, GSAA, goals saved above average, xSV%, expected save percentage"
+Evaluating My Shooter xG Model,,Harry Shomer,2018,Evaluation,Fooled By Grittiness,"xG, Shooter Talent"
+Does The NHL's Loser Point Help Weaker Teams?,,Phil Birnbaum,2018,Evaluation,Sabermetric Research,"Loser point, distribution of talent, luck"
+Adjusted Shot Locations,,Hayden Speak,2018,Evaluation,Prospect-Stats,"Shot Location, Bias"
+A New Expected Goals Model for Predicting Goals in the NHL,,Evolving Wild,2018,Evaluation,RPubs,"Expected Goals, XGBoost"
+Shift Ends and Shot Rates,,Matt Cane,2018,Evaluation,Puck++,"Shifts, Shift Length, Corsi, Shots"
+Goalie Points Above Expected,,Cole Anderson,2018,Evaluation,Crowd Scout Sports,"Goalies, Points, PAX"
+eTOI,,Hayden Speak,2018,Measures,Prospect-Stats,"Estiamted Time on Ice, Prospects, eTOI, Linear Regression"
+RVH Research,,Cole Anderson,2018,Evaluation,Crowd Scout Sports,"RVH, Goalies, Positioning"
+An Introduction to NWHL Game Score,,Shawn Ferris,2018,Evaluation,Hockey-Graphs,"Game Score, NWHL"
+How To Get Started In Hockey Analytics,,Alex Novet,2018,Introduction,Hockey-Graphs,"Hockey Analytics, Introduction"
+Has the Aging Curve Changed?,,Jeremie Spagnolo,2018,Evaluation,Pension Plan Puppets,Aging Curve
+NHL Game Prediction Model,,Harry Shomer,2018,Evaluation,Harrys Homer,"Prediction, Marcels, Bagging"
+Are There Unintended Consequences To The Coach's Challenge?,,Petbugs,2018,Evaluation,Hockey-Graphs,"Coach's challenge, Goal-Scoring, Offside calls"
+Expected Goals Limitations - A Deep Dive,,Cole Anderson,2018,Evaluation,Crowd Scout Sports,"xG, Expected Goals, Limitations,"
+Estimating Individual Impact on NHL 5v5 Shot Rates,,Micah Blake McCurdy,2018,Evaluation,HockeyViz,Regression
+The interesting way that the Corsi spread has tightened in the NHL,,Arvind Shrivats,2018,Measures,Pension Plan Puppets,"Corsi, Standard Deviation, Density"
+"Zone Exits, Handedness, And The Leftorium",,WheatNOil,2018,Evaluation,The Sports Daily,"Handedness, Zone Exits, Defensemen"
+A Look At Rate Statistics And Ice Time,,Shane O'Donnell,2018,Evaluation,Litter Box Cats,"Rate Statistics, TOI, Roles"
+NHL referees balance penalty calls between teams,,Phil Birnbaum,2018,Evaluation,Sabermetric Research,"Refs, Penalties, Make-up call"
+Optimal Contract Structuring - Taking It To The Logical Conclusion,,Matt Cane,2018,Evaluation,Puck++,"Contracts, Structure"
+Expected Goals Model,,Harry Shomer,2018,Measures,Fooled By Grittiness,Expected Goals
+Revisiting Relative Shot Metrics - Part 2,,Evolving Wild,2018,Measures,Hockey-Graphs,"Rel Tm, Relative, WOWY"
+Revisiting Relative Shot Metrics - Part 1,,Evolving Wild,2018,Measures,Hockey-Graphs,"Rel Tm, Relative, WOWY"
+2017-18 Half-Season Review: The Flames’ Penalty Kill (Part 2),,Mike Pfeil,2018,Evaluation,Flames Nation,"Penalty Kill, Systems, Shorthanded, Special Teams, Tactics"
+Shooter Talent and Expected Goals,,Harry Shomer,2018,Measures,Fooled By Grittiness,"Expected Goals, Shooter Talent, Sh%"
+2017-18 Half-Season Review: The Flames’ Penalty Kill (Part 1),,Mike Pfeil,2018,Evaluation,Flames Nation,"Penalty Kill, Systems, Shorthanded, Special Teams, Tactics"
+An Introduction to New Tracking Technology,,Prashanth Iyer,2018,Evaluation,Hockey-Graphs,"Passing Project, Tracking, Zone Entries"
+Why the Leafs have been struggling at home,,Ian Tulloch,2018,Evaluation,Maple Leafs Nation,"Home Ice Advantage, Line Matching"
+Introduction to the Player Evaluation Tool (PET),,Andi Duroux,2018,Measures,BSN Denver,"Player Evaluation, Tableau, Transition"
+Goal Scorer Cluster Analysis,,Alex Novet,2018,Evaluation,Hockey-Graphs,"Clusters, Goal Scoring, K-Means"
+An Analytical Look at this Summer's RFA's,,Nathan de Lara,2019,Evaluation,de Lara Analytics,"Contracts, RFA's, Restricted, Offer Sheet"
+Measuring Goals Added Through Passes and Skating in the NHL,,Nathan de Lara,2019,Evaluation,de Lara Analytics,"Passing, Skating, Value, Goals"
+So you want to make a hockey data viz?,,Meghan Hall,2019,Graphics,Medium,"Data, Data Visualization"
+Discrete Defensive Strategies on the Penalty Kill,,Meghan Hall,2019,Evaluation,Meghan Hall Rbind,"Penalty Kill, Defense, Strategy"
+Tracking Increasing Offense on the Penalty Kill,,Meghan Hall,2019,Evaluation,Meghan Hall Rbind,"Penalty Kill, Power Kill, Offense"
+Aggression and Success in Goalie Pulling,,Meghan Hall,2019,Evaluation,Meghan Hall Rbind,"Goalies, Goalie Pull, Timing"
+Magnus 2 - Shooting And Goaltending,,Micah Blake McCurdy,2019,Evaluation,Hockey Viz,"Model, Regression, Shooting, Goaltending"
+Magnus 2 - Umbrella,,Micah Blake McCurdy,2019,Evaluation,Hockey Viz,"Model, Regression"
+Estimating The Return On Investment From NHL Scouting,,"Michael Schuckers, Steve Argeris",2019,Evaluation,Journal of Sports Analytics,"Scouting, Return On Investment"
+NHL Aging,,CJ Turturo,2019,Evaluation,RPubs,"Aging Curves, GAM, GAR"
+NHL GM Efficiency - Measuring Which Teams Get The Most Bang For Their Buck,,Peter Flynn,2019,Evaluation,Winging It In Motown,"GM, Contracts, Salary Cap"
+By The Numbers - The Significance Of The Seasons First Five Games In Forecasting An NHL Teams Future Performance,,Dom Luszczyszyn,2019,Evaluation,The Athletic,"Projection, Five Games, Team Performance"
+Why NHL Coaches Need To Revisit The Idea That Goalies Shouldn't Start On Back-To-Back Nights,,Dom Luszczyszyn,2019,Evaluation,The Athletic,"Goalies, Back-To-Back"
+Hockey Advanced Stats Primer Part 2 - How Can And Should We Measure Play Driving Ability,,Charlie O'Connor,2019,Introduction,The Athletic,"Microstats, WOWY, Relative, Threat, RAPM"
+Combining Manually Tracked Data With Play-By-Play Data,,Meghan Hall,2019,Introduction,Hockey-Graphs,"R, Tidyverse, Introduction"
+Exploratory Data Analysis Using Tidyverse,,Meghan Hall,2019,Introduction,Hockey-Graphs,"R, Tidyverse, Introduction"
+Passing Clusters - A Framework To Evaluate A Teams Breakout,,Daniel Weinberger,2019,Evaluation,Hockey-Graphs,"Breakouts, Zone Exit, Passing"
+Lateral Puck Movement In The Neutral Zone,,Daniel Weinberger,2019,Evaluation,Hockey-Graphs,"Lateral, Neutral Zone, Passing"
+An Introduction to R With Hockey Data,,Meghan Hall,2019,Introduction,Hockey-Graphs,"R, Introduction, Hockey Statistics"
+Magnus 2 - EV,,Micah Blake McCurdy,2019,Evaluation,Hockey Viz,"Model, Regression"
+The Importance of Pressure for a Successful Forecheck,,Alex Novet,2019,Measures,Hockey-Graphs,"Coaching, Forechecking, Tracking, Neutral Zone"
+Projecting NHL Skater Contracts for the 2019 Offseason,,Evolving Wild,2019,Evaluation,Hockey-Graphs,"Contracts, Random Forest, Salary Cap"
+Evaluating Nordic Drafting - A Potential Market Inefficiency,,Prashanth Iyer,2019,Evaluation,Hockey-Graphs,"Prospects, Sweden, Finland, CHL, USHL, USDP"
+Why Possession is the Key to Zone Exits,,Alex Novet,2019,Measures,Hockey-Graphs,"Zone Exits, Tracking"
+Exit Types Don't Affect Entry Quality Much,,Alex Novet,2019,Measures,Hockey-Graphs,"Zone Exits, Zone Entries, Tracking"
+Expected Goals Model With Pre-Shot Movement Part 1,,Alex Novet,2019,Evaluation,Hockey-Graphs,"Expected Goals, Pre-Shot Movement, Tracking, Passing, xG"
+Expected Goals Model With Pre-Shot Movement Part 2,,Alex Novet,2019,Evaluation,Hockey-Graphs,"Expected Goals, Pre-Shot Movement, Tracking, Passing, xG"
+Expected Goals Model With Pre-Shot Movement Part 3,,Alex Novet,2019,Evaluation,Hockey-Graphs,"Expected Goals, Pre-Shot Movement, Tracking, Passing, xG"
+Expected Goals Model With Pre-Shot Movement Part 4,,Alex Novet,2019,Evaluation,Hockey-Graphs,"Expected Goals, Pre-Shot Movement, Tracking, Passing, xG"
+The Most Boring Possession in Hockey - Exploring What Happens After NZ Faceoff Wins,,Daniel Weinberger,2019,Evaluation,Hockey-Graphs,"Faceoffs, Neutral Zone"
+Revisiting NWHL Game Score,,Mike Murphy,2019,Evaluation,Hockey-Graphs,"Game Score, NWHL, Women's Hockey"
+Visualizing and Quantifying Passing on the Power Play,,Daniel Weinberger,2019,Evaluation,Hockey-Graphs,"Clusters, Power play, Passing"
+Team Level Zone Exits,,Alex Novet,2019,Measures,Hockey-Graphs,"Zone Exits, Tracking"
+From Grapes and Prunes to Apples and Apples: Using Matched Methods to Estimate Optimal Zone Entry Decision-Making in the National Hockey League,,"Asmae Toumi, Michael Lopez",2019,Measures,RPubs,Zone Entries
+Analyzing the value of an offer sheet and which teams should use them and which players are the best targets,,Dom Luszczyszyn,2019,Evaluation,The Athletic,"Draft pick Value, Prospects, Draft, Offer Sheets"
+pGPS Draft Slot Valuations,,Jeremy Davis,2019,Evaluation,Next Gen Hockey,"Prospects, pGPS, Draft Pick Value"
+Secondary Assists And Microstats,,Chace McCallum,2019,Evaluation,Hockey and Stuff,"Secondary Assists, Predictive Power"
+The Probability Peers prospect model (PPER) for NHL Drafting,,Connor Jung,2019,Evaluation,Fan Headlines,"Prospects, PCS, pGPS, kNN, clusters"
+Winning Isn't Everything - A Contextual Analysis of Hockey Faceoffs,,Nick Czuzoj-Shulman,2019,Evaluation,Sloan Sports Conference,Faceoffs
+How Much Do Coaches Matter,,Christopher Berry,2019,Evaluation,Sloan Sports Conference,"Coaching, Coaches"
+Penalty Goals - An Expanded Approach To Measuring Penalties In The NHL,,Evolving Wild,2019,Measures,Hockey-Graphs,"Penalties, Penalty Goals"
+"Wins Above Replacement - History, Philosophy, and Objectives - Part 1",,Evolving Wild,2019,Measures,Hockey-Graphs,WAR
+"Wins Above Replacement - The Process, Part 2",,Evolving Wild,2019,Measures,Hockey-Graphs,WAR
+Reviving Regularized Adjusted Plus Minus For Hockey,,Evolving Wild,2019,Measures,Hockey-Graphs,"RAPM, Plus Minus"
+An Introduction To NHLe And The NHLe Thresholds Analysis,,Byron Bader,2019,Evaluation,NHLes,"Prospects, NHLe"
+Digging Into Expected Value,,Carey Haber,2019,Evaluation,The Cap Space,"Cap Hit, Expected Value"
+Rebound Generation and Recovery,,Alex Novet,2020,Evaluation,CBJHAC 2020 - Hackathon,"Rebounds, Rebound Evaluation, Goaltending, Team Evaluation, Player Evaluation, AHL"
+Using Data to Inform Shorthanded Neutral Zone Decisions,,Shawn Ferris,2020,Evaluation,Hockey Graphs,"Penalty Kill, PK, Neutral Zone, Systems, Systems Analysis, Powerkill, Decision Making"
+Network NHLe (NNHLe),,CJ Turturo,2020,Measures,CJ Tuturo ShinyApp,"NHLe, Prospects, Scouting, Neural Network, Relationships, SHL, KHL, AHL, CHL, OHL, QMJHL"
+Exploring tidymodels With Hockey Data,,Meghan Hall,2020,Introduction,Meghan Hall RBind,"Introduction, Visualization, Tableau, Tutortials"
+Exploring tidymodels With Hockey Data,,Meghan Hall,2020,Introduction,Meghan Hall Rbind,"Modeling, Tidyverse, Tinymodels, R, GGPlot"
+Score Sequence,,Micah Blake McCurdy,2020,Evaluation,Hockey Viz,"Score Effects, Score Sequence"
+Importance of Roster Depth in the NHL,,Nathan de Lara,2020,Evaluation,de Lara Analytics,"Depth, Gini Coefficient, GAR, Wins"
+The unlikeliness of goaltending - a new methodology to assess talent,,Michael Parkatti,2020,Evaluation,Boys On The Bus,"Goalies, Likelihood Analysis, Expected Goals"
+Examining Score Effects on Special Teams,,Meghan Hall,2020,Evaluation,Meghan Hall Rbind,"Score Effects, Special Teams"
+Putting Numbers To Two Common Goalie Terms - Steals And Quality Starts,,Loserpoints,2020,Evaluation,,"Goalies, Quality Starts, Steals"
+Blueshirts Breakaways' Hockey Lexicon,,,,Terminology,Blueshirts Breakaway,
