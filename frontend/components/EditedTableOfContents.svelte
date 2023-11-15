@@ -1,0 +1,12 @@
+<script>
+	import ContentsList from './EditedContentsList.svelte';
+	import { navigating } from '$app/stores';
+</script>
+
+<aside class="hidden lg:block w-48">
+	{#if !$navigating}
+		<div class="fixed w-48 top-20 bottom-20 pl-4 pr-3 overflow-auto pretty-scrollbar">
+			<ContentsList />
+		</div>
+	{/if}
+</aside>
