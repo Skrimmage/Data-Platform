@@ -33,7 +33,7 @@
 
 {#if mobileSidebarOpen}
 	<div
-		class="fixed inset-0 z-50 backdrop-blur-sm"
+		class="fixed bg-white/80 inset-0 z-50 backdrop-blur-sm"
 		transition:fade|local={{ duration: 100 }}
 		on:click={() => (mobileSidebarOpen = false)}
 		on:keypress={() => (mobileSidebarOpen = false)}
@@ -45,8 +45,8 @@
 	>
 		<div class=" pb-4 text-gray-700">
 			<div class="py-3 px-8 mb-3 flex items-start justify-between">
-				<a href="/" class="block mt-1">
-					<Logo />
+				<a href="/" class="hidden md:block font-bold" style="color: oklch(70% 0.3305 145.77)">
+					Skrimmage
 				</a>
 				<span
 					on:click={() => (mobileSidebarOpen = false)}
