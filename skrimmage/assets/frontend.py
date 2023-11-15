@@ -9,8 +9,8 @@ import pandas as pd
 def frontend_build_folder():
     
     df = pd.read_parquet(constants.HISTORICAL_NHL_SCHEDULE_FILE_PATH)
-    df.to_csv('skrimmage-frontend/data/nhl_historical_schedule.csv')
+    df.to_csv('frontend/sources/nhl:nhl_historical_schedule.csv')
     
     df = pd.read_parquet(constants.NHL_TEAMS_FILE_PATH)
-    df.to_csv('skrimmage-frontend/data/nhl_teams.csv')
+    df.to_csv('frontend/sources/nhl/nhl_teams.csv')
 
