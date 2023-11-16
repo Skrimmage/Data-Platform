@@ -10,7 +10,7 @@ twitter:
   site: '@skrimmagesports'
 ---
 
-![wordmark](/wordmark.png)
+# ![Skrimmage](/wordmark.png)
 
 *Your home for Open Source Statistics!*
 

@@ -6,10 +6,12 @@
 @layer base {
 	html {
 		@apply scroll-smooth;
+		font-family: Futura,Trebuchet MS,Arial,sans-serif; 
 	}
 
 	body {
 		@apply select-none;
+		background-color: #fafafa;
 	}
 
 	/* osx style scrollbars */
@@ -40,6 +42,8 @@
 		border: 1px solid; 
 		margin: 10px; 
 		padding: 10px;
+		background: #fff;
+		font-family: Futura,Trebuchet MS,Arial,sans-serif; 
 
 		a{
 			@apply text-blue-600 underline decoration-transparent hover:decoration-blue-600  transition-all duration-200 !important;
