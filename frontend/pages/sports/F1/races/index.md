@@ -7,7 +7,7 @@ title: F1 Races
 ```sql current_races
 select *,
 './' || year || '_' || REPLACE(name, ' ', '_') as race_link
-from 'sources/races.csv'
+from 'sources/f1/races.csv'
 where year = 2023
 order by date;
 ```

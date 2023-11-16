@@ -14,7 +14,7 @@ hide_title: True
 
 ```sql drivers
 select CONCAT(forename, ' ', surname) as name,dob,nationality,url
-from 'sources/drivers.csv'
+from 'sources/f1/drivers.csv'
 ```
 
 

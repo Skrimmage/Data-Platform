@@ -34,7 +34,7 @@ sources:
 ```results
 select 
   *
-from 'sources/results.csv' 
+from 'sources/f1/results.csv' 
 ```
 
 ```driver_cross_results
