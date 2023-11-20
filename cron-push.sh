@@ -11,9 +11,9 @@ git add .
 git commit -m "${message}"
 status="$(git status --branch --porcelain)"
 echo $status >> ~/cron_git_push.log
-if [ "$status" == "## master...origin/master" ]; then
+if [ "$status" == "## main...origin/main" ]; then
   echo "{$date}: No Changes" >> ~/cron_git_push.log
 else
   echo "{$date}: Changes being pushed. " >> ~/cron_git_push.log
-  git push -u origin master
+  git push -u origin main
 fi
