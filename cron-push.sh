@@ -7,6 +7,7 @@ date=$(date +"%Y-%m-%d %T")
 # Commit message
 message="Auto-push for $date"
 cd /home/dpage/Projects/skrimmage/frontend/
+git checkout main
 git add .
 git commit -m "${message}"
 status="$(git status --branch --porcelain)"
