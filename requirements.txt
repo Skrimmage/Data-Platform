@@ -1,0 +1,11 @@
+dagster
+dagster-cloud
+dagster-cloud-cli
+dagster-dbt
+dagster-duckdb
+dagster-ext-process
+dagster-graphql
+dagster-pipes
+dagster-webserver
+ipython
+duckdb
