@@ -2,7 +2,7 @@
 title: Contribute to Skrimmage
 ---
 
-Add issues or pull requests to the [Skrimmage Data Platform](https://github.com/Skrimmage/Data-Platform)
+Add issues or pull requests to the [Skrimmage Data Platform](https://github.com/Skrimmage/Data-Platform/issues)
 
 Things that we are looking for:
 
