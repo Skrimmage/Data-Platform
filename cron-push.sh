@@ -8,6 +8,7 @@ date=$(date +"%Y-%m-%d %T")
 message="Auto-push for $date"
 cd /home/dpage/Projects/skrimmage/frontend/
 git checkout main
+git pull
 git add .
 git commit -m "${message}"
 status="$(git status --branch --porcelain)"
@@ -16,5 +17,6 @@ if [ "$status" == "## main...origin/main" ]; then
   echo "{$date}: No Changes" >> ~/cron_git_push.log
 else
   echo "{$date}: Changes being pushed. " >> ~/cron_git_push.log
-  git push -u origin main
+  result=$(git push -u origin main 2>&1)
+  echo {$result} >> ~/cron_git_push.log
 fi
