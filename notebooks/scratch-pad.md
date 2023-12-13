@@ -28,7 +28,6 @@ https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandboo
   "files.autoSave": "afterDelay",
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "continue.OPENAI_API_KEY": "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",
   "workbench.editorAssociations": {
     "*.db": "sqlite-viewer.option"
   },
