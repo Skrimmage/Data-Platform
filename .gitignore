@@ -1,3 +1,4 @@
+# General / Dagster
 tmp*/
 .telemetry/
 .vscode/
@@ -9,3 +10,13 @@ schedules/
 **/__pycache__
 venv/
 .DS_Store
+
+# Evidence
+.evidence/template
+.svelte-kit
+build
+node_modules
+.DS_Store
+static/data
+*.options.yaml
+.vscode/settings.json
