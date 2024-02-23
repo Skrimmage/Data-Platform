@@ -1,6 +1,6 @@
 ---
-sources:
-  - drivers: f1/drivers.sql
+queries:
+  - drivers: drivers.sql
 ---
 
 

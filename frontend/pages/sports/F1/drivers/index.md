@@ -1,8 +1,8 @@
 ---
 title: F1 Drivers
 hide_title: true
-sources:
-  - drivers: f1/drivers.sql
+queries:
+  - drivers: drivers.sql
 ---
 
 ## List of drivers

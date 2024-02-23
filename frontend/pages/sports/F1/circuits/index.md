@@ -1,8 +1,22 @@
 ---
 title: F1 Circuits
-sources:
-  - circuits: f1/circuits.sql
+
 ---
+
+```sql circuits
+select 
+    circuitId,
+    circuitRef,
+    name,
+    location,
+    country,
+    lat,
+    lng,
+    alt,
+    url,
+    './' || circuitRef as circuit_link
+from f1.circuits;
+```
 
 ## List of Circuits
 

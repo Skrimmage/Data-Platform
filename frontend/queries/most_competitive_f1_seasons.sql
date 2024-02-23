@@ -1,0 +1,1 @@
+select * from reports.most_competitive_f1_seasons
