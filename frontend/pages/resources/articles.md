@@ -1,15 +1,17 @@
 ---
-title: Sports Analytics Articles 
+title: Sports Analytics Articles
+comments: 
+    - From https://docs.google.com/spreadsheets/d/1ku4oav1JUB7Qz3ydu1zG-HxkFer19xP_rPkf32SFeP8/edit#gid=0
+    -  Extracted links with the following excel/googlesheets:
+    - =mid(B2,FIND("~",SUBSTITUTE(B2,CHAR(34),"~",1))+1,(FIND("~",SUBSTITUTE(B2,CHAR(34),"~",2))-FIND("~",SUBSTITUTE(B2,CHAR(34),"~",1)))-1)
 ---
 
 ```metahockey
-select * from 'sources/articles/metahockey_articles_with_links_cleaned.csv'
--- From https://docs.google.com/spreadsheets/d/1ku4oav1JUB7Qz3ydu1zG-HxkFer19xP_rPkf32SFeP8/edit#gid=0
--- Extracted links with the following excel/googlesheets:
--- =mid(B2,FIND("~",SUBSTITUTE(B2,CHAR(34),"~",1))+1,(FIND("~",SUBSTITUTE(B2,CHAR(34),"~",2))-FIND("~",SUBSTITUTE(B2,CHAR(34),"~",1)))-1)
+select * from articles.metahockey_articles_with_links_cleaned;
+
 ```
 
-If you have suggestions for articles to add to this repository, please open a [Pull Request](https://github.com/Skrimmage/Data-Platform/tree/main/frontend/sources/articles), or [drop me an email](mailto:danny@skrimmage.com?subject=Articles). 
+If you have suggestions for articles to add to this repository, please open a [Pull Request](https://github.com/Skrimmage/Data-Platform/tree/main/frontend/sources/articles), or [drop me an email](mailto:danny@skrimmage.com?subject=Articles).
 
 ## Hockey Articles
 

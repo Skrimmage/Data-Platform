@@ -2,6 +2,10 @@
 title: Recent Updates
 ---
 
+- 2024/02/22
+  - Updating to [Universal SQL](https://evidence.dev/blog/why-we-built-usql/)
+  
+
 - 2023/11/13
   - Lots of Front-end improvements, including components and partials that will make scaling easier
   - DuckDB as the core DB, CSV still works, which is ideal for managing smaller datasets like articles and authors
