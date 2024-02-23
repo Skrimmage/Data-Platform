@@ -1,6 +1,6 @@
 ---
-sources:
-  - circuits: f1/circuits.sql
+queries:
+  - circuits: all_circuits.sql
 ---
 
 # <Value data={circuits.filter(d => d.circuitRef.toUpperCase() === $page.params.circuitRef.toUpperCase())} column=name/>

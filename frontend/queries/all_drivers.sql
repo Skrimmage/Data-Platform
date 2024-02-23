@@ -6,4 +6,4 @@ select
     url,
     driverRef,
     './' || driverRef as driver_link
-from 'sources/f1/drivers.csv'
+from f1.drivers

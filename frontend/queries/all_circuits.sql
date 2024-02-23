@@ -9,4 +9,4 @@ select
     alt,
     url,
     './' || circuitRef as circuit_link
-from 'sources/f1/circuits.csv'
+from f1.circuits;

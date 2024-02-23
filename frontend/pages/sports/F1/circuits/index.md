@@ -1,7 +1,7 @@
 ---
 title: F1 Circuits
-sources:
-  - circuits: f1/circuits.sql
+queries:
+  - circuits: all_circuits.sql
 ---
 
 ## List of Circuits

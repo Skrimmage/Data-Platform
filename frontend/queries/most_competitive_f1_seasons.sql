@@ -2,17 +2,17 @@ WITH race_count
      AS (SELECT Count(raceid) num_of_races,
                 Max(raceid)   max_race,
                 year
-         FROM   'sources/f1/races.csv'
+         FROM   f1.races
          GROUP  BY year),
      race_and_year
      AS (SELECT r.raceid,
                 year
-         FROM   'sources/f1/races.csv' r),
+         FROM   f1.races r),
      top_points
      AS (SELECT ry.raceid,
                 Max(Cast(ds.points AS INT)) top_points
          FROM   race_and_year ry,
-                'sources/f1/driver_standings.csv' ds
+                f1.driver_standings ds
          WHERE  ry.raceid = ds.raceid
          GROUP  BY ry.raceid),
      race_breakdowns
@@ -26,7 +26,7 @@ WITH race_count
                    AS
                 percent_race
          FROM   race_and_year ry,
-                'sources/f1/driver_standings.csv' ds,
+                f1.driver_standings ds,
                 top_points tp,
                 race_count rc
          WHERE  ry.raceid = ds.raceid

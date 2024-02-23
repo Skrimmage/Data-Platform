@@ -5,7 +5,7 @@ select *,
 year || '_' || REPLACE(name, ' ', '_') as year_race_name,
 name || ' - ' || year as name_year,
 './' || year || '_' || REPLACE(name, ' ', '_') as race_link
-from 'sources/f1/races.csv'
+from f1.races
 order by date;
 ```
 

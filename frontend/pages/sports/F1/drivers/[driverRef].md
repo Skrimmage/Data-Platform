@@ -1,6 +1,6 @@
 ---
-sources:
-  - drivers: f1/drivers.sql
+queries:
+  - drivers: all_drivers.sql
 ---
 
 
@@ -34,7 +34,7 @@ sources:
 ```results
 select 
   *
-from 'sources/f1/results.csv' 
+from f1.results
 ```
 
 ```driver_cross_results
