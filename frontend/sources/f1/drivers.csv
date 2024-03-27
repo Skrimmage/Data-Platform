@@ -857,4 +857,4 @@ driverId,driverRef,number,code,forename,surname,dob,nationality,url
 857,"piastri",81,"PIA","Oscar","Piastri","2001-04-06","Australian","http://en.wikipedia.org/wiki/Oscar_Piastri"
 858,"sargeant",2,"SAR","Logan","Sargeant","2000-12-31","American","http://en.wikipedia.org/wiki/Logan_Sargeant"
 859,"lawson",40,"LAW","Liam","Lawson","2002-02-11","New Zealander","http://en.wikipedia.org/wiki/Liam_Lawson"
-860,"bearman",38,\N,"Oliver","Bearman",\N,"British","http://en.wikipedia.org/wiki/Oliver_Bearman"
+860,"bearman",38,"BEA","Oliver","Bearman","2005-05-08","British","http://en.wikipedia.org/wiki/Oliver_Bearman"
